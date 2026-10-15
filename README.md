@@ -15,11 +15,13 @@
   </p>
 
   <p>
-    <code>⚡ React 18 / 19</code> &nbsp;
+    <code>⚡ Next.js 16 / React 19</code> &nbsp;
+    <code>🕹️ Three.js &amp; WebGL</code> &nbsp;
     <code>⚛️ TypeScript</code> &nbsp;
-    <code>🎬 Streaming Engine (HLS/M3U8)</code> &nbsp;
-    <code>🕹️ Three.js & WebGL</code> &nbsp;
-    <code>🚀 Node.js Architecture</code> &nbsp;
+    <code>🎬 HLS Streaming Engines</code> &nbsp;
+    <code>🚀 Node.js &amp; Express</code> &nbsp;
+    <code>🐍 FastAPI &amp; Python</code> &nbsp;
+    <code>🍃 MongoDB</code> &nbsp;
     <code>🤖 Autonomous AI Agents</code>
   </p>
 </div>
@@ -41,6 +43,48 @@
     <img src="https://www.gitskins.com/api/section/stack?username=ZETIC7Z&theme=github-dark" alt="Language Stack" width="100%" />
   </picture>
 </p>
+
+<br/>
+
+<!-- ================= FULL-STACK ENGINEERING SPECTRUM ================= -->
+<div align="center">
+  <h2>🛠️ Full-Stack Engineering Spectrum</h2>
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎨 Frontend &amp; Creative 3D</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/GSAP%20ScrollTrigger-88CE02?style=flat-square&logo=greensock&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind%20CSS%20v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/React%20Native%20%2F%20Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+        <img src="https://img.shields.io/badge/Playwright%20E2E-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚙️ Backend, Systems &amp; Video</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI%20%2F%20Python-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/HLS.js%20%2F%20M3U8-FF5500?style=flat-square&logo=video&logoColor=white" />
+        <img src="https://img.shields.io/badge/AST%20Parser%20%2F%20Cheerio-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vercel%20Edge-000000?style=flat-square&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST%20%26%20GraphQL%20APIs-E10098?style=flat-square&logo=graphql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -89,16 +133,26 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 style="margin-top:0;">🎬 <a href="https://github.com/ZETIC7Z/NEXUS-MOBILE-TV">NEXUS-MOBILE-TV</a></h3>
-      <p>A free premium, ad-free streaming experience that brings thousands of movies and TV shows to your fingertips with intelligent subtitle controls, offline caching, and a Netflix-grade UI.</p>
+      <h3 style="margin-top:0;">📋 <a href="https://github.com/ZETIC7Z/CareerForm">CareerForm PH</a></h3>
+      <p>Civil Service Personal Data Sheet (CS Form 212, Revised 2026) Builder & Government Jobs Portal with WebGL 3D preview, client-side PDF synthesis, background removal, and offline caching.</p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
-        <img src="https://img.shields.io/badge/HLS.js-FF5500?style=flat-square" />
+        <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <h3 style="margin-top:0;">🎬 <a href="https://github.com/ZETIC7Z/NEXUS-MOBILE-TV">NEXUS-MOBILE-TV</a></h3>
+      <p>A free premium, ad-free streaming experience that brings thousands of movies and TV shows to your fingertips with intelligent subtitle controls, offline caching, and a Netflix-grade UI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React%20Native-000020?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/HLS.js-FF5500?style=flat-square" />
+      </p>
+    </td>
     <td width="50%" valign="top">
       <h3 style="margin-top:0;">🕹️ <a href="https://github.com/ZETIC7Z/Sam_Porfolio">Sam_Porfolio (zeticuz.xyz)</a></h3>
       <p>Interactive GTA V-inspired 3D web experience with sound fx, Three.js custom shaders, character illustrations, and GSAP ScrollTrigger timeline choreography.</p>
@@ -108,13 +162,24 @@
         <img src="https://img.shields.io/badge/Live-zeticuz.xyz-F5B800?style=flat-square" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3 style="margin-top:0;">🛡️ <a href="https://github.com/ZETIC7Z/sws-website">sws-website</a></h3>
-      <p>SWS Skeptrons — Alpha Kappa Rho Chapter Website and dynamic digital Member ID Verification System with cryptographic validation and QR card generation.</p>
+      <h3 style="margin-top:0;">🛡️ <a href="https://github.com/ZETIC7Z/sws-website">sws-website &amp; sws-backend</a></h3>
+      <p>SWS Skeptrons — Alpha Kappa Rho Chapter Website and dynamic digital Member ID Verification System with cryptographic validation, QR card generation, and Express backend API.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 style="margin-top:0;">🍿 <a href="https://github.com/ZETIC7Z/AniKotoZETAPI">AniKotoZETAPI &amp; MiruroAPI</a></h3>
+      <p>High-throughput RESTful streaming API scrapers with smart edge caching, AniList GraphQL integration, and direct M3U8 video stream extraction.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Cheerio-E34F26?style=flat-square" />
       </p>
     </td>
   </tr>
