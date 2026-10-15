@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 220" width="100%" height="220" fill="none">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141822" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#0B0E14" stop-opacity="0.98" />
+    </linearGradient>
+
+    <!-- Border Gradient -->
+    <linearGradient id="cardBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(255, 255, 255, 0.18)" />
+      <stop offset="50%" stop-color="rgba(0, 240, 255, 0.25)" />
+      <stop offset="100%" stop-color="rgba(245, 184, 0, 0.15)" />
+    </linearGradient>
+
+    <!-- Gauge Gradients -->
+    <linearGradient id="gradGold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF5500" />
+      <stop offset="100%" stop-color="#F5B800" />
+    </linearGradient>
+    <linearGradient id="gradCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00B4D8" />
+      <stop offset="100%" stop-color="#00F0FF" />
+    </linearGradient>
+    <linearGradient id="gradEmerald" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#059669" />
+      <stop offset="100%" stop-color="#10B981" />
+    </linearGradient>
+    <linearGradient id="gradPurple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED" />
+      <stop offset="100%" stop-color="#A855F7" />
+    </linearGradient>
+
+    <filter id="glowGold" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <filter id="glowCyan" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .eyebrow { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "JetBrains Mono", monospace; font-size: 11px; font-weight: 700; fill: #00F0FF; letter-spacing: 2px; }
+    .label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13.5px; font-weight: 600; fill: #E6EDF3; }
+    .pct { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size: 13px; font-weight: 700; }
+    .subtext { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 11px; fill: #8B949E; }
+  </style>
+
+  <!-- Outer Card -->
+  <rect x="1" y="1" width="878" height="218" rx="18" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1.5" />
+
+  <!-- Eyebrow & Live Indicator -->
+  <circle cx="28" cy="30" r="4" fill="#00F0FF" filter="url(#glowCyan)" />
+  <text x="40" y="34" class="eyebrow">ARSENAL &amp; REPOSITORY-WEIGHTED TECH STACK</text>
+  <text x="852" y="34" text-anchor="end" class="eyebrow" fill="#8B949E" style="fill: #8B949E;">VERIFIED DATA · 62 REPOSITORIES</text>
+
+  <!-- Row 1: Left Item (TypeScript / JavaScript) -->
+  <g transform="translate(28, 56)">
+    <rect width="396" height="66" rx="12" fill="#06090E" stroke="rgba(255,255,255,0.06)" stroke-width="1" />
+    <text x="16" y="26" class="label">TypeScript / JavaScript</text>
+    <text x="380" y="26" text-anchor="end" class="pct" fill="#F5B800">45%</text>
+    <rect x="16" y="38" width="364" height="8" rx="4" fill="rgba(255,255,255,0.08)" />
+    <rect x="16" y="38" width="164" height="8" rx="4" fill="url(#gradGold)" filter="url(#glowGold)" />
+  </g>
+
+  <!-- Row 1: Right Item (React 18 / Next.js / Vite) -->
+  <g transform="translate(456, 56)">
+    <rect width="396" height="66" rx="12" fill="#06090E" stroke="rgba(255,255,255,0.06)" stroke-width="1" />
+    <text x="16" y="26" class="label">React 18 / 19, Next.js &amp; Vite</text>
+    <text x="380" y="26" text-anchor="end" class="pct" fill="#00F0FF">28%</text>
+    <rect x="16" y="38" width="364" height="8" rx="4" fill="rgba(255,255,255,0.08)" />
+    <rect x="16" y="38" width="102" height="8" rx="4" fill="url(#gradCyan)" filter="url(#glowCyan)" />
+  </g>
+
+  <!-- Row 2: Left Item (Node.js & Streaming Engine) -->
+  <g transform="translate(28, 134)">
+    <rect width="396" height="66" rx="12" fill="#06090E" stroke="rgba(255,255,255,0.06)" stroke-width="1" />
+    <text x="16" y="26" class="label">Node.js, Express &amp; Streaming (HLS/M3U8)</text>
+    <text x="380" y="26" text-anchor="end" class="pct" fill="#10B981">18%</text>
+    <rect x="16" y="38" width="364" height="8" rx="4" fill="rgba(255,255,255,0.08)" />
+    <rect x="16" y="38" width="66" height="8" rx="4" fill="url(#gradEmerald)" />
+  </g>
+
+  <!-- Row 2: Right Item (Three.js & Creative WebGL) -->
+  <g transform="translate(456, 134)">
+    <rect width="396" height="66" rx="12" fill="#06090E" stroke="rgba(255,255,255,0.06)" stroke-width="1" />
+    <text x="16" y="26" class="label">Three.js, WebGL &amp; GSAP ScrollTrigger</text>
+    <text x="380" y="26" text-anchor="end" class="pct" fill="#A855F7">9%</text>
+    <rect x="16" y="38" width="364" height="8" rx="4" fill="rgba(255,255,255,0.08)" />
+    <rect x="16" y="38" width="33" height="8" rx="4" fill="url(#gradPurple)" />
+  </g>
+</svg>
