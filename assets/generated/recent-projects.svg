@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="480" viewBox="0 0 900 480" role="img" aria-label="PROJECTS.LIST">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#58a6ff" stop-opacity=".75"/><stop offset=".5" stop-color="#30363d" stop-opacity=".6"/><stop offset="1" stop-color="#3fb950" stop-opacity=".55"/></linearGradient>
+    <radialGradient id="glowA" cx="20%" cy="10%" r="45%"><stop offset="0" stop-color="#1f6feb" stop-opacity=".28"/><stop offset="1" stop-color="#1f6feb" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowB" cx="85%" cy="90%" r="45%"><stop offset="0" stop-color="#8957e5" stop-opacity=".2"/><stop offset="1" stop-color="#8957e5" stop-opacity="0"/></radialGradient>
+    <linearGradient id="scan" x1="0" x2="1"><stop offset="0" stop-color="#58a6ff" stop-opacity="0"/><stop offset=".5" stop-color="#58a6ff" stop-opacity=".9"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></linearGradient>
+    <clipPath id="clip"><rect x="1" y="1" width="898" height="478" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .fade{opacity:0;animation:fade .7s ease-out forwards}
+    @keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+    .pulse{animation:pulse 2s ease-in-out infinite}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+    .sweep{animation:sweep 4s linear infinite}
+    @keyframes sweep{from{transform:translateX(-900px)}to{transform:translateX(900px)}}
+    .glow{animation:glow 6s ease-in-out infinite alternate}
+    @keyframes glow{from{opacity:.55}to{opacity:1}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important}}
+  </style>
+  <g clip-path="url(#clip)">
+    <rect width="900" height="480" fill="#0d1117"/>
+    <rect class="glow" width="900" height="480" fill="url(#glowA)"/>
+    <rect class="glow" style="animation-delay:-3s" width="900" height="480" fill="url(#glowB)"/>
+    <rect class="sweep" x="0" y="62" width="900" height="1.5" fill="url(#scan)"/>
+  </g>
+  <rect x="1" y="1" width="898" height="478" rx="18" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+  <circle class="pulse" cx="34" cy="36" r="4" fill="#3fb950"/>
+  <text x="48" y="41" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="14" letter-spacing="2.5" fill="#58a6ff">PROJECTS.LIST</text>
+  <text x="202.5" y="41" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="12" fill="#8b949e">./projects.sh --recent</text>
+  <text x="870" y="41" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="12" fill="#8b949e" text-anchor="end">4 most recent</text>
+  <line x1="28" y1="62" x2="872" y2="62" stroke="#30363d"/>
+  <g class="fade" style="animation-delay:0.15s">
+    <rect x="28" y="84" width="414" height="170" rx="12" fill="#161b22" stroke="#58a6ff"/>
+    <rect x="28" y="84" width="414" height="30" rx="12" fill="#1c2128"/>
+    <rect x="28" y="102" width="414" height="12" fill="#1c2128"/>
+    <line x1="28" y1="114" x2="442" y2="114" stroke="#30363d"/>
+    <circle cx="44" cy="99" r="3" fill="#58a6ff"/>
+    <text x="54" y="103" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="10" fill="#8b949e">Barangay-Online-E-Governance-Portal</text>
+    <rect x="344" y="91" width="84" height="16" rx="8" fill="#238636"/><text x="386" y="103" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="9" font-weight="700" fill="#ffffff" text-anchor="middle">LATEST PUSH</text>
+    <text x="44" y="142" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="15" font-weight="700" fill="#e6edf3">Barangay-Online-E-Governance-…<tspan class="pulse" fill="#58a6ff"> _</tspan></text>
+    <text x="44" y="164" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="11" fill="#8b949e">Barangay Online E-Governance Portal - Official</text><text x="44" y="180" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="11" fill="#8b949e">Smart 3D E-Governance System for…</text>
+    <text x="44" y="210" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="10" fill="#a371f7">Three.js · GSAP · Framer Motion · Lenis</text>
+    <rect x="44" y="220" width="90" height="18" rx="9" fill="none" stroke="#3178c6" stroke-opacity=".7"/>
+    <text x="89" y="233" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="10" fill="#3178c6" text-anchor="middle">TypeScript</text>
+    <text x="146" y="233" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="10" fill="#8b949e">★ 0  ·  pushed Oct 29, 2026</text>
+    <circle cx="396" cy="176" r="26" fill="none" stroke="#21262d" stroke-width="7"/>
+    <circle cx="396" cy="176" r="26" fill="none" stroke="#3178c6" stroke-width="7" stroke-linecap="round" stroke-dasharray="144.3 163.4" stroke-dashoffset="144.3" transform="rotate(-90 396 176)">
+      <animate attributeName="stroke-dashoffset" from="144.3" to="0" dur="1.3s" begin="0.40s" fill="freeze"/>
+    </circle>
+    <text x="396" y="180" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="700" fill="#e6edf3" text-anchor="middle">88%</text>
+  </g>
+<g class="fade" style="animation-delay:0.3s">
+    <rect x="458" y="84" width="414" height="170" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="458" y="84" width="414" height="30" rx="12" fill="#1c2128"/>
+    <rect x="458" y="102" width="414" height="12" fill="#1c2128"/>
+    <line x1="458" y1="114" x2="872" y2="114" stroke="#30363d"/>
+    <circle cx="474" cy="99" r="3" fill="#58a6ff"/>
+    <text x="484" y="103" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="10" fill="#8b949e">CLIENT-QMS</text>
+    <circle class="pulse" cx="856" cy="99" r="4" fill="#6e7681"/>
+    <text x="474" y="142" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="15" font-weight="700" fill="#e6edf3">CLIENT-QMS<tspan class="pulse" fill="#58a6ff"> _</tspan></text>
+    <text x="474" y="164" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="11" fill="#8b949e">DSWD AICS Smart Queue Management System with</text><text x="474" y="180" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="11" fill="#8b949e">Realtime Multi-Step Workflow,…</text>
+    <text x="474" y="210" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="10" fill="#a371f7">PostgreSQL · Supabase · React · Vite</text>
+    <rect x="474" y="220" width="90" height="18" rx="9" fill="none" stroke="#3178c6" stroke-opacity=".7"/>
+    <text x="519" y="233" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="10" fill="#3178c6" text-anchor="middle">TypeScript</text>
+    <text x="576" y="233" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="10" fill="#8b949e">★ 0  ·  pushed Oct 21, 2026</text>
+    <circle cx="826" cy="176" r="26" fill="none" stroke="#21262d" stroke-width="7"/>
+    <circle cx="826" cy="176" r="26" fill="none" stroke="#3178c6" stroke-width="7" stroke-linecap="round" stroke-dasharray="157.7 163.4" stroke-dashoffset="157.7" transform="rotate(-90 826 176)">
+      <animate attributeName="stroke-dashoffset" from="157.7" to="0" dur="1.3s" begin="0.55s" fill="freeze"/>
+    </circle>
+    <text x="826" y="180" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="700" fill="#e6edf3" text-anchor="middle">97%</text>
+  </g>
+<g class="fade" style="animation-delay:0.44999999999999996s">
+    <rect x="28" y="270" width="414" height="170" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="28" y="270" width="414" height="30" rx="12" fill="#1c2128"/>
+    <rect x="28" y="288" width="414" height="12" fill="#1c2128"/>
+    <line x1="28" y1="300" x2="442" y2="300" stroke="#30363d"/>
+    <circle cx="44" cy="285" r="3" fill="#58a6ff"/>
+    <text x="54" y="289" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="10" fill="#8b949e">CareerForm</text>
+    <circle class="pulse" cx="426" cy="285" r="4" fill="#6e7681"/>
+    <text x="44" y="328" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="15" font-weight="700" fill="#e6edf3">CareerForm<tspan class="pulse" fill="#58a6ff"> _</tspan></text>
+    <text x="44" y="350" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="11" fill="#8b949e">CareerForm PH - Free CSC Personal Data Sheet</text><text x="44" y="366" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="11" fill="#8b949e">(CS Form 212, Revised 2026) Builder…</text>
+    <text x="44" y="396" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="10" fill="#a371f7">Next.js · Three.js · GSAP · Python</text>
+    <rect x="44" y="406" width="90" height="18" rx="9" fill="none" stroke="#f1e05a" stroke-opacity=".7"/>
+    <text x="89" y="419" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="10" fill="#f1e05a" text-anchor="middle">JavaScript</text>
+    <text x="146" y="419" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="10" fill="#8b949e">★ 0  ·  pushed Sep 26, 2026</text>
+    <circle cx="396" cy="362" r="26" fill="none" stroke="#21262d" stroke-width="7"/>
+    <circle cx="396" cy="362" r="26" fill="none" stroke="#f1e05a" stroke-width="7" stroke-linecap="round" stroke-dasharray="88.0 163.4" stroke-dashoffset="88.0" transform="rotate(-90 396 362)">
+      <animate attributeName="stroke-dashoffset" from="88.0" to="0" dur="1.3s" begin="0.70s" fill="freeze"/>
+    </circle>
+    <text x="396" y="366" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="700" fill="#e6edf3" text-anchor="middle">54%</text>
+  </g>
+<g class="fade" style="animation-delay:0.6s">
+    <rect x="458" y="270" width="414" height="170" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="458" y="270" width="414" height="30" rx="12" fill="#1c2128"/>
+    <rect x="458" y="288" width="414" height="12" fill="#1c2128"/>
+    <line x1="458" y1="300" x2="872" y2="300" stroke="#30363d"/>
+    <circle cx="474" cy="285" r="3" fill="#58a6ff"/>
+    <text x="484" y="289" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="10" fill="#8b949e">Sam_Porfolio</text>
+    <circle class="pulse" cx="856" cy="285" r="4" fill="#6e7681"/>
+    <text x="474" y="328" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="15" font-weight="700" fill="#e6edf3">Sam_Porfolio<tspan class="pulse" fill="#58a6ff"> _</tspan></text>
+    <text x="474" y="350" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="11" fill="#8b949e">Sam Portfolio - AI-First Full-Stack Engineer</text>
+    <text x="474" y="396" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="10" fill="#a371f7">GSAP · Framer Motion · JWT Auth · React</text>
+    <rect x="474" y="406" width="90" height="18" rx="9" fill="none" stroke="#f1e05a" stroke-opacity=".7"/>
+    <text x="519" y="419" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="10" fill="#f1e05a" text-anchor="middle">JavaScript</text>
+    <text x="576" y="419" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="10" fill="#8b949e">★ 0  ·  pushed Sep 25, 2026</text>
+    <circle cx="826" cy="362" r="26" fill="none" stroke="#21262d" stroke-width="7"/>
+    <circle cx="826" cy="362" r="26" fill="none" stroke="#f1e05a" stroke-width="7" stroke-linecap="round" stroke-dasharray="143.0 163.4" stroke-dashoffset="143.0" transform="rotate(-90 826 362)">
+      <animate attributeName="stroke-dashoffset" from="143.0" to="0" dur="1.3s" begin="0.85s" fill="freeze"/>
+    </circle>
+    <text x="826" y="366" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="700" fill="#e6edf3" text-anchor="middle">88%</text>
+  </g>
+</svg>

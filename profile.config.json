@@ -1,0 +1,15 @@
+{
+  "username": "ZETIC7Z",
+  "excludeRepos": ["ZETIC7Z", "GMCS-Dashboard"],
+  "includeForks": [],
+  "recentCount": 4,
+  "portfolioHosts": ["zeticuz.xyz", "www.zeticuz.xyz"],
+  "flagship": [
+    { "repo": "Barangay-Online-E-Governance-Portal", "icon": "🏛️" },
+    { "repo": "CLIENT-QMS", "icon": "🎫" },
+    { "repo": "Frances-Gaik-WEBSITE", "icon": "🧘" },
+    { "repo": "NEXUS", "icon": "🎬", "description": "NEXUS — a Netflix-grade streaming platform with multi-source HLS playback, intelligent subtitles, watch history and a cinematic React UI." },
+    { "repo": "CareerForm", "icon": "📋" },
+    { "repo": "nexus3.0", "icon": "🚀", "description": "NEXUS 3.0 — the next-generation rebuild of the NEXUS streaming engine with a redesigned interface, faster source resolution and modern TypeScript architecture." }
+  ]
+}

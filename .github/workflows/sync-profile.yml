@@ -1,0 +1,49 @@
+name: Sync profile with repositories
+
+# Re-scans every public repo (new pushes, new repos, deleted repos, stack changes)
+# and regenerates the stats / language / recent-projects cards + README sections.
+on:
+  schedule:
+    - cron: '7 * * * *'   # every hour
+  workflow_dispatch:       # manual "Run workflow" button
+  push:
+    branches: [main]
+    paths:
+      - 'profile.config.json'
+      - 'scripts/**'
+      - '.github/workflows/sync-profile.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-sync
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Scan repositories and regenerate profile
+        env:
+          PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/sync-profile.mjs
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet; then
+            echo "Profile already up to date."
+            exit 0
+          fi
+          git config user.name  "zeticuz-profile-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A README.md assets/generated data
+          git commit -m "chore(profile): auto-sync repositories & tech stack"
+          git push

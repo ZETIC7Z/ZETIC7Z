@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="370" viewBox="0 0 900 370" role="img" aria-label="LANGUAGE.STACK">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#58a6ff" stop-opacity=".75"/><stop offset=".5" stop-color="#30363d" stop-opacity=".6"/><stop offset="1" stop-color="#3fb950" stop-opacity=".55"/></linearGradient>
+    <radialGradient id="glowA" cx="20%" cy="10%" r="45%"><stop offset="0" stop-color="#1f6feb" stop-opacity=".28"/><stop offset="1" stop-color="#1f6feb" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowB" cx="85%" cy="90%" r="45%"><stop offset="0" stop-color="#8957e5" stop-opacity=".2"/><stop offset="1" stop-color="#8957e5" stop-opacity="0"/></radialGradient>
+    <linearGradient id="scan" x1="0" x2="1"><stop offset="0" stop-color="#58a6ff" stop-opacity="0"/><stop offset=".5" stop-color="#58a6ff" stop-opacity=".9"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></linearGradient>
+    <clipPath id="clip"><rect x="1" y="1" width="898" height="368" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .fade{opacity:0;animation:fade .7s ease-out forwards}
+    @keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+    .pulse{animation:pulse 2s ease-in-out infinite}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+    .sweep{animation:sweep 4s linear infinite}
+    @keyframes sweep{from{transform:translateX(-900px)}to{transform:translateX(900px)}}
+    .glow{animation:glow 6s ease-in-out infinite alternate}
+    @keyframes glow{from{opacity:.55}to{opacity:1}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important}}
+  </style>
+  <g clip-path="url(#clip)">
+    <rect width="900" height="370" fill="#0d1117"/>
+    <rect class="glow" width="900" height="370" fill="url(#glowA)"/>
+    <rect class="glow" style="animation-delay:-3s" width="900" height="370" fill="url(#glowB)"/>
+    <rect class="sweep" x="0" y="62" width="900" height="1.5" fill="url(#scan)"/>
+  </g>
+  <rect x="1" y="1" width="898" height="368" rx="18" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+  <circle class="pulse" cx="34" cy="36" r="4" fill="#3fb950"/>
+  <text x="48" y="41" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="14" letter-spacing="2.5" fill="#58a6ff">LANGUAGE.STACK</text>
+  <text x="213" y="41" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="12" fill="#8b949e">./stack.scan --all</text>
+  <text x="870" y="41" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="12" fill="#8b949e" text-anchor="end">7 languages</text>
+  <line x1="28" y1="62" x2="872" y2="62" stroke="#30363d"/>
+  <g class="fade" style="animation-delay:0s">
+    <circle cx="40" cy="87" r="6" fill="#3178c6"/>
+    <text x="56" y="92" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#e6edf3">TypeScript</text>
+    <text x="300" y="92" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="14" font-weight="700" fill="#3178c6" text-anchor="end">74.5%</text>
+    <rect x="330" y="80" width="530" height="10" rx="5" fill="#21262d"/>
+    <rect x="330" y="80" width="395.0" height="10" rx="5" fill="#3178c6">
+      <animate attributeName="width" from="0" to="395.0" dur="1.4s" begin="0.20s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/>
+    </rect>
+  </g>
+<g class="fade" style="animation-delay:0.08s">
+    <circle cx="40" cy="121" r="6" fill="#f1e05a"/>
+    <text x="56" y="126" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#e6edf3">JavaScript</text>
+    <text x="300" y="126" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="14" font-weight="700" fill="#f1e05a" text-anchor="end">12.7%</text>
+    <rect x="330" y="114" width="530" height="10" rx="5" fill="#21262d"/>
+    <rect x="330" y="114" width="67.1" height="10" rx="5" fill="#f1e05a">
+      <animate attributeName="width" from="0" to="67.1" dur="1.4s" begin="0.28s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/>
+    </rect>
+  </g>
+<g class="fade" style="animation-delay:0.16s">
+    <circle cx="40" cy="155" r="6" fill="#8b949e"/>
+    <text x="56" y="160" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#e6edf3">NSIS</text>
+    <text x="300" y="160" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="14" font-weight="700" fill="#8b949e" text-anchor="end">6.0%</text>
+    <rect x="330" y="148" width="530" height="10" rx="5" fill="#21262d"/>
+    <rect x="330" y="148" width="31.6" height="10" rx="5" fill="#8b949e">
+      <animate attributeName="width" from="0" to="31.6" dur="1.4s" begin="0.36s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/>
+    </rect>
+  </g>
+<g class="fade" style="animation-delay:0.24s">
+    <circle cx="40" cy="189" r="6" fill="#3572A5"/>
+    <text x="56" y="194" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#e6edf3">Python</text>
+    <text x="300" y="194" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="14" font-weight="700" fill="#3572A5" text-anchor="end">2.9%</text>
+    <rect x="330" y="182" width="530" height="10" rx="5" fill="#21262d"/>
+    <rect x="330" y="182" width="15.2" height="10" rx="5" fill="#3572A5">
+      <animate attributeName="width" from="0" to="15.2" dur="1.4s" begin="0.44s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/>
+    </rect>
+  </g>
+<g class="fade" style="animation-delay:0.32s">
+    <circle cx="40" cy="223" r="6" fill="#663399"/>
+    <text x="56" y="228" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#e6edf3">CSS</text>
+    <text x="300" y="228" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="14" font-weight="700" fill="#663399" text-anchor="end">2.6%</text>
+    <rect x="330" y="216" width="530" height="10" rx="5" fill="#21262d"/>
+    <rect x="330" y="216" width="13.6" height="10" rx="5" fill="#663399">
+      <animate attributeName="width" from="0" to="13.6" dur="1.4s" begin="0.52s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/>
+    </rect>
+  </g>
+<g class="fade" style="animation-delay:0.4s">
+    <circle cx="40" cy="257" r="6" fill="#e34c26"/>
+    <text x="56" y="262" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#e6edf3">HTML</text>
+    <text x="300" y="262" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="14" font-weight="700" fill="#e34c26" text-anchor="end">1.2%</text>
+    <rect x="330" y="250" width="530" height="10" rx="5" fill="#21262d"/>
+    <rect x="330" y="250" width="6.4" height="10" rx="5" fill="#e34c26">
+      <animate attributeName="width" from="0" to="6.4" dur="1.4s" begin="0.60s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/>
+    </rect>
+  </g>
+<g class="fade" style="animation-delay:0.48s">
+    <circle cx="40" cy="291" r="6" fill="#6e7681"/>
+    <text x="56" y="296" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#e6edf3">Other (9)</text>
+    <text x="300" y="296" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="14" font-weight="700" fill="#6e7681" text-anchor="end">0.2%</text>
+    <rect x="330" y="284" width="530" height="10" rx="5" fill="#21262d"/>
+    <rect x="330" y="284" width="4.0" height="10" rx="5" fill="#6e7681">
+      <animate attributeName="width" from="0" to="4.0" dur="1.4s" begin="0.68s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/>
+    </rect>
+  </g><text x="28" y="352" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="11" fill="#6e7681">byte-weighted across 21 original repositories · 24 manifests scanned · forks excluded</text>
+</svg>
