@@ -318,6 +318,38 @@ function frame(width, height, title, subtitle, right, body) {
 </svg>`;
 }
 
+function renderAbout() {
+  const W = 900, H = 160;
+  const body = `
+  <g class="fade" style="animation-delay:0.1s">
+    <text x="32" y="104" ${FONT} font-size="20" font-weight="700" fill="#e6edf3">AI-First Full-Stack Engineer · React, TypeScript, Node.js &amp; Streaming Architectures</text>
+    <rect x="32" y="120" width="176" height="24" rx="12" fill="#1f6feb" fill-opacity=".15" stroke="#58a6ff" stroke-width="1"/>
+    <text x="44" y="136" ${MONO} font-size="11" font-weight="600" fill="#58a6ff">&gt; open to collaboration</text>
+    <rect x="220" y="120" width="168" height="24" rx="12" fill="#238636" fill-opacity=".15" stroke="#3fb950" stroke-width="1"/>
+    <text x="232" y="136" ${MONO} font-size="11" font-weight="600" fill="#3fb950">✓ production verified</text>
+  </g>`;
+  return frame(W, H, 'OPERATOR.PROFILE', './whoami --extended', 'PHILIPPINES (PH)', body);
+}
+
+function renderConnect() {
+  const W = 900, H = 160;
+  const body = `
+  <g class="fade" style="animation-delay:0.1s">
+    <rect x="28" y="82" width="410" height="56" rx="12" fill="#161b22" stroke="#30363d"/>
+    <circle cx="56" cy="110" r="14" fill="#21262d"/>
+    <text x="56" y="115" ${FONT} font-size="14" fill="#ffffff" text-anchor="middle">⌥</text>
+    <text x="82" y="101" ${MONO} font-size="10" fill="#8b949e">GITHUB PROFILE</text>
+    <text x="82" y="123" ${MONO} font-size="15" font-weight="700" fill="#58a6ff">@ZETIC7Z</text>
+
+    <rect x="462" y="82" width="410" height="56" rx="12" fill="#161b22" stroke="#30363d"/>
+    <circle cx="490" cy="110" r="14" fill="#21262d"/>
+    <text x="490" y="115" ${FONT} font-size="14" fill="#f5b800" text-anchor="middle">⚡</text>
+    <text x="516" y="101" ${MONO} font-size="10" fill="#8b949e">PORTFOLIO &amp; SHOWCASE</text>
+    <text x="516" y="123" ${MONO} font-size="15" font-weight="700" fill="#f5b800">www.zeticuz.xyz</text>
+  </g>`;
+  return frame(W, H, 'COMMUNICATIONS.MATRIX', './connect --mesh', 'ACTIVE CHANNELS', body);
+}
+
 function renderStats(m) {
   const W = 900, H = 230;
   const cells = [
@@ -472,6 +504,8 @@ await mkdir(path.join(ROOT, 'data'), { recursive: true });
 await writeFile(path.join(ROOT, 'assets/generated/stats.svg'), renderStats(metrics));
 await writeFile(path.join(ROOT, 'assets/generated/languages.svg'), renderLanguages(langs, { repos: scanned.length, manifests: manifestTotal }));
 await writeFile(path.join(ROOT, 'assets/generated/recent-projects.svg'), renderRecent(recent));
+await writeFile(path.join(ROOT, 'assets/generated/about.svg'), renderAbout());
+await writeFile(path.join(ROOT, 'assets/generated/connect.svg'), renderConnect());
 
 // README: tech stack matrix
 const stackHtml = CATEGORIES.map((c) => {

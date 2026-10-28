@@ -30,10 +30,7 @@
 
 <!-- ================= FUTURISTIC ANIMATED ABOUT ================= -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=ZETIC7Z&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=ZETIC7Z&theme=github-dark" alt="About ZETICUZ" width="100%" />
-  </picture>
+  <img src="assets/generated/about.svg" alt="About ZETICUZ" width="100%" />
 </p>
 
 
@@ -195,10 +192,9 @@
 </div>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=ZETIC7Z&theme=github-dark&website=https%3A%2F%2Fwww.zeticuz.xyz&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=ZETIC7Z&theme=github-dark&website=https%3A%2F%2Fwww.zeticuz.xyz" alt="ZETICUZ social links" width="100%" />
-  </picture>
+  <a href="https://www.zeticuz.xyz" target="_blank">
+    <img src="assets/generated/connect.svg" alt="ZETICUZ network and channels" width="100%" />
+  </a>
 </p>
 
 <div align="center">
