@@ -34,8 +34,8 @@
     <text x="56" y="92" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#e6edf3">TypeScript</text>
     <text x="300" y="92" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="14" font-weight="700" fill="#3178c6" text-anchor="end">74.5%</text>
     <rect x="330" y="80" width="530" height="10" rx="5" fill="#21262d"/>
-    <rect x="330" y="80" width="395.0" height="10" rx="5" fill="#3178c6">
-      <animate attributeName="width" from="0" to="395.0" dur="1.4s" begin="0.20s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/>
+    <rect x="330" y="80" width="395.1" height="10" rx="5" fill="#3178c6">
+      <animate attributeName="width" from="0" to="395.1" dur="1.4s" begin="0.20s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/>
     </rect>
   </g>
 <g class="fade" style="animation-delay:0.08s">
@@ -43,8 +43,8 @@
     <text x="56" y="126" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#e6edf3">JavaScript</text>
     <text x="300" y="126" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="14" font-weight="700" fill="#f1e05a" text-anchor="end">12.7%</text>
     <rect x="330" y="114" width="530" height="10" rx="5" fill="#21262d"/>
-    <rect x="330" y="114" width="67.1" height="10" rx="5" fill="#f1e05a">
-      <animate attributeName="width" from="0" to="67.1" dur="1.4s" begin="0.28s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/>
+    <rect x="330" y="114" width="67.0" height="10" rx="5" fill="#f1e05a">
+      <animate attributeName="width" from="0" to="67.0" dur="1.4s" begin="0.28s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/>
     </rect>
   </g>
 <g class="fade" style="animation-delay:0.16s">
