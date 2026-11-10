@@ -1,95 +1,94 @@
 {
-  "syncedAt": "2026-11-10T01:58:07.683Z",
+  "syncedAt": "2026-11-10T09:37:41.928Z",
   "metrics": {
-    "publicRepos": 84,
-    "originals": 21,
-    "contributions": 2675,
-    "commits": 2583,
+    "publicRepos": 56,
+    "originals": 14,
+    "contributions": 2415,
+    "commits": 2351,
     "stars": 0,
     "followers": 3,
-    "techCount": 42,
+    "techCount": 41,
     "syncedLabel": "Nov 10, 2026"
   },
   "languages": [
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "pct": 74.54228454432025
+      "pct": 64.8140963044883
     },
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "pct": 12.650740158104911
+      "pct": 16.484948761330767
     },
     {
       "name": "NSIS",
       "color": "#8b949e",
-      "pct": 5.963500615769777
+      "pct": 9.789686466355535
     },
     {
       "name": "Python",
       "color": "#3572A5",
-      "pct": 2.8624249309257266
+      "pct": 4.698958617215656
     },
     {
       "name": "CSS",
       "color": "#663399",
-      "pct": 2.5568428554719738
+      "pct": 3.106861289854088
     },
     {
       "name": "HTML",
       "color": "#e34c26",
-      "pct": 1.2030356660815875
+      "pct": 0.7894580538912568
     },
     {
       "name": "Other (9)",
       "color": "#6e7681",
-      "pct": 0.2211712293257776
+      "pct": 0.3159905068643991
     }
   ],
   "technologies": {
-    "JavaScript": 21,
-    "CSS3": 18,
-    "React": 17,
-    "Vercel": 17,
-    "TypeScript": 16,
-    "ESLint": 16,
-    "Tailwind CSS": 15,
-    "Vite": 14,
-    "HTML5": 14,
-    "Framer Motion": 12,
-    "Node.js": 11,
-    "PostCSS": 10,
-    "React Router": 9,
-    "JWT Auth": 8,
-    "Playwright": 8,
-    "Radix UI": 8,
-    "PWA": 7,
-    "Recharts": 7,
-    "Zod": 7,
-    "Docker": 7,
-    "Vitest": 7,
-    "Three.js": 6,
-    "Express": 6,
-    "TanStack Query": 6,
-    "GSAP": 5,
-    "Cheerio": 5,
+    "JavaScript": 14,
+    "CSS3": 13,
+    "React": 12,
+    "TypeScript": 11,
+    "Tailwind CSS": 11,
+    "ESLint": 11,
+    "Vercel": 10,
+    "Vite": 9,
+    "HTML5": 9,
+    "Framer Motion": 9,
+    "Node.js": 8,
+    "PostCSS": 8,
+    "React Router": 7,
+    "Playwright": 7,
+    "JWT Auth": 6,
+    "Radix UI": 6,
+    "PWA": 5,
+    "Recharts": 5,
+    "Zod": 5,
+    "Vitest": 5,
+    "Three.js": 4,
+    "Express": 4,
     "MongoDB": 4,
-    "React Three Fiber": 4,
-    "Zustand": 4,
-    "HLS.js": 4,
-    "GitHub Actions": 4,
+    "TanStack Query": 4,
+    "GSAP": 3,
     "Next.js": 3,
-    "Axios": 3,
+    "Docker": 3,
     "Testing Library": 3,
     "PostgreSQL": 2,
     "Supabase": 2,
     "Python": 2,
-    "Cloudflare": 2,
+    "React Three Fiber": 2,
+    "Zustand": 2,
+    "HLS.js": 2,
+    "GitHub Actions": 2,
+    "Cheerio": 2,
     "Lenis": 1,
     "Leaflet": 1,
     "Socket.IO": 1,
-    "PDF Engine": 1
+    "PDF Engine": 1,
+    "Axios": 1
   },
   "repositories": [
     {
@@ -160,7 +159,7 @@
       ]
     },
     {
-      "name": "Sam_Porfolio",
+      "name": "zeticuz-portfolio",
       "pushedAt": "2026-09-25T12:17:14Z",
       "language": "JavaScript",
       "tech": [
@@ -181,7 +180,7 @@
       ]
     },
     {
-      "name": "Frances-Gaik-WEBSITE",
+      "name": "LIFECOACH-BOOK-AUTHOR-WEBSITE-V.1",
       "pushedAt": "2026-09-18T13:23:00Z",
       "language": "TypeScript",
       "tech": [
@@ -200,7 +199,7 @@
       ]
     },
     {
-      "name": "lifecoachdoc2",
+      "name": "LIFECOACH-BOOK-AUTHOR-WEBSITE-V.2",
       "pushedAt": "2026-09-14T06:46:09Z",
       "language": "TypeScript",
       "tech": [
@@ -221,7 +220,7 @@
       ]
     },
     {
-      "name": "nexus3.0",
+      "name": "NEXUS-V2-SITE",
       "pushedAt": "2026-09-06T17:32:53Z",
       "language": "TypeScript",
       "tech": [
@@ -286,47 +285,6 @@
       ]
     },
     {
-      "name": "anikotozet",
-      "pushedAt": "2026-07-31T14:42:42Z",
-      "language": "JavaScript",
-      "tech": [
-        "JavaScript",
-        "HTML5",
-        "Node.js",
-        "Express",
-        "Axios",
-        "Cheerio",
-        "Vercel",
-        "Docker"
-      ]
-    },
-    {
-      "name": "nexus.20",
-      "pushedAt": "2026-07-24T03:56:14Z",
-      "language": "TypeScript",
-      "tech": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Vite",
-        "Tailwind CSS",
-        "React Router",
-        "Zustand",
-        "HTML5",
-        "CSS3",
-        "JWT Auth",
-        "HLS.js",
-        "Vercel",
-        "Docker",
-        "GitHub Actions",
-        "PWA",
-        "Playwright",
-        "Vitest",
-        "ESLint",
-        "PostCSS"
-      ]
-    },
-    {
       "name": "ANexis-Provider",
       "pushedAt": "2026-07-16T00:45:24Z",
       "language": "JavaScript",
@@ -344,7 +302,7 @@
       ]
     },
     {
-      "name": "autobiography-test",
+      "name": "autobiography-BOOK-AUTHOR-WEBSITE-",
       "pushedAt": "2026-07-12T18:10:05Z",
       "language": "TypeScript",
       "tech": [
@@ -362,45 +320,6 @@
         "PostgreSQL",
         "Supabase",
         "Vercel",
-        "ESLint"
-      ]
-    },
-    {
-      "name": "nexus-anime",
-      "pushedAt": "2026-07-05T02:15:17Z",
-      "language": "JavaScript",
-      "tech": [
-        "JavaScript",
-        "HTML5",
-        "Node.js",
-        "Express",
-        "Axios",
-        "Cheerio",
-        "Vercel",
-        "Docker"
-      ]
-    },
-    {
-      "name": "zeticuz-FINAL-PORTFOLIO",
-      "pushedAt": "2026-06-11T16:04:32Z",
-      "language": "TypeScript",
-      "tech": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Vite",
-        "Tailwind CSS",
-        "Radix UI",
-        "TanStack Query",
-        "CSS3",
-        "Three.js",
-        "React Three Fiber",
-        "GSAP",
-        "Framer Motion",
-        "Recharts",
-        "Zod",
-        "Vercel",
-        "Cloudflare",
         "ESLint"
       ]
     },
@@ -462,73 +381,6 @@
         "Testing Library",
         "ESLint",
         "PostCSS"
-      ]
-    },
-    {
-      "name": "zeticuz-reels",
-      "pushedAt": "2026-05-16T04:08:23Z",
-      "language": "TypeScript",
-      "tech": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Vite",
-        "Tailwind CSS",
-        "Radix UI",
-        "TanStack Query",
-        "CSS3",
-        "Recharts",
-        "Zod",
-        "Vercel",
-        "Cloudflare",
-        "ESLint"
-      ]
-    },
-    {
-      "name": "NEXUS-APRIL15-BACKUP",
-      "pushedAt": "2026-05-15T10:36:28Z",
-      "language": "TypeScript",
-      "tech": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Vite",
-        "Tailwind CSS",
-        "React Router",
-        "Zustand",
-        "HTML5",
-        "CSS3",
-        "Framer Motion",
-        "Node.js",
-        "Cheerio",
-        "JWT Auth",
-        "HLS.js",
-        "Vercel",
-        "Docker",
-        "GitHub Actions",
-        "PWA",
-        "Vitest",
-        "ESLint",
-        "PostCSS"
-      ]
-    },
-    {
-      "name": "ZETICUZ-PORTFOLIO",
-      "pushedAt": "2026-03-16T09:23:33Z",
-      "language": "TypeScript",
-      "tech": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Vite",
-        "HTML5",
-        "CSS3",
-        "Three.js",
-        "React Three Fiber",
-        "GSAP",
-        "Framer Motion",
-        "Vercel",
-        "ESLint"
       ]
     },
     {

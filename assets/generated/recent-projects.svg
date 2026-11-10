@@ -95,9 +95,9 @@
     <rect x="458" y="288" width="414" height="12" fill="#1c2128"/>
     <line x1="458" y1="300" x2="872" y2="300" stroke="#30363d"/>
     <circle cx="474" cy="285" r="3" fill="#58a6ff"/>
-    <text x="484" y="289" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="10" fill="#8b949e">Sam_Porfolio</text>
+    <text x="484" y="289" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="10" fill="#8b949e">zeticuz-portfolio</text>
     <circle class="pulse" cx="856" cy="285" r="4" fill="#6e7681"/>
-    <text x="474" y="328" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="15" font-weight="700" fill="#e6edf3">Sam_Porfolio<tspan class="pulse" fill="#58a6ff"> _</tspan></text>
+    <text x="474" y="328" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="15" font-weight="700" fill="#e6edf3">zeticuz-portfolio<tspan class="pulse" fill="#58a6ff"> _</tspan></text>
     <text x="474" y="350" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="11" fill="#8b949e">Sam Portfolio - AI-First Full-Stack Engineer</text>
     <text x="474" y="396" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="10" fill="#a371f7">GSAP · Framer Motion · JWT Auth · React</text>
     <rect x="474" y="406" width="90" height="18" rx="9" fill="none" stroke="#f1e05a" stroke-opacity=".7"/>

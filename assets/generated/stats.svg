@@ -32,31 +32,31 @@
   <g class="fade" style="animation-delay:0.1s">
     <rect x="28" y="84" width="130.66666666666666" height="112" rx="12" fill="#161b22" stroke="#30363d"/>
     <rect x="28" y="84" width="130.66666666666666" height="3" rx="1.5" fill="#58a6ff"/>
-    <text x="93.33333333333333" y="146" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" fill="#58a6ff" text-anchor="middle">84</text>
+    <text x="93.33333333333333" y="146" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" fill="#58a6ff" text-anchor="middle">56</text>
     <text x="93.33333333333333" y="176" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="10" letter-spacing="1" fill="#8b949e" text-anchor="middle">PUBLIC REPOS</text>
   </g>
 <g class="fade" style="animation-delay:0.22s">
     <rect x="170.66666666666666" y="84" width="130.66666666666666" height="112" rx="12" fill="#161b22" stroke="#30363d"/>
     <rect x="170.66666666666666" y="84" width="130.66666666666666" height="3" rx="1.5" fill="#a371f7"/>
-    <text x="236" y="146" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" fill="#a371f7" text-anchor="middle">21</text>
+    <text x="236" y="146" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" fill="#a371f7" text-anchor="middle">14</text>
     <text x="236" y="176" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="10" letter-spacing="1" fill="#8b949e" text-anchor="middle">ORIGINAL PROJECTS</text>
   </g>
 <g class="fade" style="animation-delay:0.33999999999999997s">
     <rect x="313.3333333333333" y="84" width="130.66666666666666" height="112" rx="12" fill="#161b22" stroke="#30363d"/>
     <rect x="313.3333333333333" y="84" width="130.66666666666666" height="3" rx="1.5" fill="#3fb950"/>
-    <text x="378.66666666666663" y="146" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" fill="#3fb950" text-anchor="middle">2,675</text>
+    <text x="378.66666666666663" y="146" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" fill="#3fb950" text-anchor="middle">2,415</text>
     <text x="378.66666666666663" y="176" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="10" letter-spacing="1" fill="#8b949e" text-anchor="middle">CONTRIBUTIONS · 1Y</text>
   </g>
 <g class="fade" style="animation-delay:0.45999999999999996s">
     <rect x="456" y="84" width="130.66666666666666" height="112" rx="12" fill="#161b22" stroke="#30363d"/>
     <rect x="456" y="84" width="130.66666666666666" height="3" rx="1.5" fill="#f0883e"/>
-    <text x="521.3333333333334" y="146" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" fill="#f0883e" text-anchor="middle">2,583</text>
+    <text x="521.3333333333334" y="146" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" fill="#f0883e" text-anchor="middle">2,351</text>
     <text x="521.3333333333334" y="176" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="10" letter-spacing="1" fill="#8b949e" text-anchor="middle">COMMITS · 1Y</text>
   </g>
 <g class="fade" style="animation-delay:0.58s">
     <rect x="598.6666666666666" y="84" width="130.66666666666666" height="112" rx="12" fill="#161b22" stroke="#30363d"/>
     <rect x="598.6666666666666" y="84" width="130.66666666666666" height="3" rx="1.5" fill="#f778ba"/>
-    <text x="664" y="146" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" fill="#f778ba" text-anchor="middle">42</text>
+    <text x="664" y="146" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" fill="#f778ba" text-anchor="middle">41</text>
     <text x="664" y="176" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Consolas, monospace" font-size="10" letter-spacing="1" fill="#8b949e" text-anchor="middle">TECHNOLOGIES</text>
   </g>
 <g class="fade" style="animation-delay:0.7s">
