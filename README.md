@@ -102,7 +102,7 @@
   <img src="https://img.shields.io/badge/Testing%20Library-3%20repos-E33332?style=flat-square&logo=testinglibrary&logoColor=white&labelColor=E33332" alt="Testing Library" />
 </td></tr>
 </table>
-<p align="center"><sub>Auto-detected from <b>16</b> dependency manifests across <b>14</b> original repositories · badge = number of repos using it · last sync Nov 10, 2026</sub></p>
+<p align="center"><sub>Auto-detected from <b>16</b> dependency manifests across <b>14</b> original repositories · badge = number of repos using it · last sync Nov 11, 2026</sub></p>
 <!-- TECH-STACK:END -->
 
 <br/>
