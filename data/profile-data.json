@@ -1,9 +1,9 @@
 {
-  "syncedAt": "2026-11-11T05:54:27.556Z",
+  "syncedAt": "2026-11-11T14:00:29.983Z",
   "metrics": {
-    "publicRepos": 59,
-    "originals": 15,
-    "contributions": 2418,
+    "publicRepos": 60,
+    "originals": 16,
+    "contributions": 2419,
     "commits": 2351,
     "stars": 0,
     "followers": 3,
@@ -14,57 +14,57 @@
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "pct": 64.827606674535
+      "pct": 64.95321328810086
     },
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "pct": 17.03394356039395
+      "pct": 16.754605613344147
     },
     {
       "name": "NSIS",
       "color": "#8b949e",
-      "pct": 9.465610272776848
+      "pct": 9.30842236619991
     },
     {
       "name": "Python",
       "color": "#3572A5",
-      "pct": 4.5434050529943155
+      "pct": 4.467956317156838
     },
     {
       "name": "CSS",
       "color": "#663399",
-      "pct": 3.0254742598259003
+      "pct": 2.9942788094597055
     },
     {
       "name": "HTML",
       "color": "#e34c26",
-      "pct": 0.7984301711172325
+      "pct": 0.8198018916328204
     },
     {
-      "name": "Other (9)",
+      "name": "Other (15)",
       "color": "#6e7681",
-      "pct": 0.30553000835675515
+      "pct": 0.7017217141057297
     }
   ],
   "technologies": {
-    "JavaScript": 15,
-    "CSS3": 14,
-    "React": 13,
-    "TypeScript": 12,
-    "Tailwind CSS": 12,
+    "JavaScript": 16,
+    "CSS3": 15,
+    "React": 14,
+    "TypeScript": 13,
+    "Tailwind CSS": 13,
+    "Vite": 11,
+    "HTML5": 11,
     "Vercel": 11,
     "ESLint": 11,
-    "Vite": 10,
-    "HTML5": 10,
     "Framer Motion": 10,
+    "PostCSS": 9,
     "Playwright": 8,
     "Node.js": 8,
-    "PostCSS": 8,
     "React Router": 7,
+    "PWA": 6,
     "JWT Auth": 6,
     "Radix UI": 6,
-    "PWA": 5,
     "Recharts": 5,
     "Zod": 5,
     "Vitest": 5,
@@ -92,6 +92,22 @@
     "Axios": 1
   },
   "repositories": [
+    {
+      "name": "RESTO-POS",
+      "pushedAt": "2026-11-11T08:39:24Z",
+      "language": "TypeScript",
+      "tech": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Vite",
+        "Tailwind CSS",
+        "HTML5",
+        "CSS3",
+        "PWA",
+        "PostCSS"
+      ]
+    },
     {
       "name": "netflix-style-portfolio",
       "pushedAt": "2026-11-11T04:00:16Z",
