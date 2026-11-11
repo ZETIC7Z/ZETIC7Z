@@ -1,67 +1,67 @@
 {
-  "syncedAt": "2026-11-10T23:08:31.162Z",
+  "syncedAt": "2026-11-11T05:54:27.556Z",
   "metrics": {
-    "publicRepos": 56,
-    "originals": 14,
-    "contributions": 2415,
+    "publicRepos": 59,
+    "originals": 15,
+    "contributions": 2418,
     "commits": 2351,
     "stars": 0,
     "followers": 3,
-    "techCount": 41,
+    "techCount": 42,
     "syncedLabel": "Nov 11, 2026"
   },
   "languages": [
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "pct": 64.8140963044883
+      "pct": 64.827606674535
     },
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "pct": 16.484948761330767
+      "pct": 17.03394356039395
     },
     {
       "name": "NSIS",
       "color": "#8b949e",
-      "pct": 9.789686466355535
+      "pct": 9.465610272776848
     },
     {
       "name": "Python",
       "color": "#3572A5",
-      "pct": 4.698958617215656
+      "pct": 4.5434050529943155
     },
     {
       "name": "CSS",
       "color": "#663399",
-      "pct": 3.106861289854088
+      "pct": 3.0254742598259003
     },
     {
       "name": "HTML",
       "color": "#e34c26",
-      "pct": 0.7894580538912568
+      "pct": 0.7984301711172325
     },
     {
       "name": "Other (9)",
       "color": "#6e7681",
-      "pct": 0.3159905068643991
+      "pct": 0.30553000835675515
     }
   ],
   "technologies": {
-    "JavaScript": 14,
-    "CSS3": 13,
-    "React": 12,
-    "TypeScript": 11,
-    "Tailwind CSS": 11,
+    "JavaScript": 15,
+    "CSS3": 14,
+    "React": 13,
+    "TypeScript": 12,
+    "Tailwind CSS": 12,
+    "Vercel": 11,
     "ESLint": 11,
-    "Vercel": 10,
-    "Vite": 9,
-    "HTML5": 9,
-    "Framer Motion": 9,
+    "Vite": 10,
+    "HTML5": 10,
+    "Framer Motion": 10,
+    "Playwright": 8,
     "Node.js": 8,
     "PostCSS": 8,
     "React Router": 7,
-    "Playwright": 7,
     "JWT Auth": 6,
     "Radix UI": 6,
     "PWA": 5,
@@ -76,6 +76,7 @@
     "Next.js": 3,
     "Docker": 3,
     "Testing Library": 3,
+    "Lenis": 2,
     "PostgreSQL": 2,
     "Supabase": 2,
     "Python": 2,
@@ -84,13 +85,32 @@
     "HLS.js": 2,
     "GitHub Actions": 2,
     "Cheerio": 2,
-    "Lenis": 1,
+    "FFmpeg": 1,
     "Leaflet": 1,
     "Socket.IO": 1,
     "PDF Engine": 1,
     "Axios": 1
   },
   "repositories": [
+    {
+      "name": "netflix-style-portfolio",
+      "pushedAt": "2026-11-11T04:00:16Z",
+      "language": "TypeScript",
+      "tech": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Vite",
+        "Tailwind CSS",
+        "HTML5",
+        "CSS3",
+        "Framer Motion",
+        "Lenis",
+        "FFmpeg",
+        "Vercel",
+        "Playwright"
+      ]
+    },
     {
       "name": "Barangay-Online-E-Governance-Portal",
       "pushedAt": "2026-10-28T21:59:43Z",

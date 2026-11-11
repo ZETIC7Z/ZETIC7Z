@@ -49,13 +49,13 @@
 <!-- TECH-STACK:START -->
 <table width="100%">
 <tr><td width="24%" valign="middle"><b>🎨 Frontend</b></td><td>
-  <img src="https://img.shields.io/badge/JavaScript-14%20repos-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&labelColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/CSS3-13%20repos-1572B6?style=flat-square&logo=css&logoColor=white&labelColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-12%20repos-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=20232A" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-11%20repos-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-11%20repos-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=06B6D4" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-9%20repos-646CFF?style=flat-square&logo=vite&logoColor=white&labelColor=646CFF" alt="Vite" />
-  <img src="https://img.shields.io/badge/HTML5-9%20repos-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/JavaScript-15%20repos-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&labelColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/CSS3-14%20repos-1572B6?style=flat-square&logo=css&logoColor=white&labelColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-13%20repos-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=20232A" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-12%20repos-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-12%20repos-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-10%20repos-646CFF?style=flat-square&logo=vite&logoColor=white&labelColor=646CFF" alt="Vite" />
+  <img src="https://img.shields.io/badge/HTML5-10%20repos-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/React%20Router-7%20repos-CA4245?style=flat-square&logo=reactrouter&logoColor=white&labelColor=CA4245" alt="React Router" />
   <img src="https://img.shields.io/badge/Radix%20UI-6%20repos-161618?style=flat-square&logo=radixui&logoColor=white&labelColor=161618" alt="Radix UI" />
   <img src="https://img.shields.io/badge/TanStack%20Query-4%20repos-FF4154?style=flat-square&logo=reactquery&logoColor=white&labelColor=FF4154" alt="TanStack Query" />
@@ -63,12 +63,12 @@
   <img src="https://img.shields.io/badge/Zustand-2%20repos-443E38?style=flat-square&logo=react&logoColor=white&labelColor=443E38" alt="Zustand" />
 </td></tr>
 <tr><td width="24%" valign="middle"><b>🕹️ 3D, Motion &amp; Data Viz</b></td><td>
-  <img src="https://img.shields.io/badge/Framer%20Motion-9%20repos-0055FF?style=flat-square&logo=framer&logoColor=white&labelColor=0055FF" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-10%20repos-0055FF?style=flat-square&logo=framer&logoColor=white&labelColor=0055FF" alt="Framer Motion" />
   <img src="https://img.shields.io/badge/Recharts-5%20repos-22B5BF?style=flat-square&logo=chartdotjs&logoColor=white&labelColor=22B5BF" alt="Recharts" />
   <img src="https://img.shields.io/badge/Three.js-4%20repos-000000?style=flat-square&logo=threedotjs&logoColor=white&labelColor=000000" alt="Three.js" />
   <img src="https://img.shields.io/badge/GSAP-3%20repos-0AE448?style=flat-square&logo=greensock&logoColor=000000&labelColor=0AE448" alt="GSAP" />
   <img src="https://img.shields.io/badge/React%20Three%20Fiber-2%20repos-000000?style=flat-square&logo=threedotjs&logoColor=white&labelColor=000000" alt="React Three Fiber" />
-  <img src="https://img.shields.io/badge/Lenis-1%20repo-FF98A2?style=flat-square&logo=smoothcomp&logoColor=white&labelColor=FF98A2" alt="Lenis" />
+  <img src="https://img.shields.io/badge/Lenis-2%20repos-FF98A2?style=flat-square&logo=smoothcomp&logoColor=white&labelColor=FF98A2" alt="Lenis" />
   <img src="https://img.shields.io/badge/Leaflet-1%20repo-199900?style=flat-square&logo=leaflet&logoColor=white&labelColor=199900" alt="Leaflet" />
 </td></tr>
 <tr><td width="24%" valign="middle"><b>⚙️ Backend, APIs &amp; AI</b></td><td>
@@ -81,10 +81,11 @@
   <img src="https://img.shields.io/badge/HLS.js-2%20repos-FF5500?style=flat-square&logo=videodotjs&logoColor=white&labelColor=FF5500" alt="HLS.js" />
   <img src="https://img.shields.io/badge/Socket.IO-1%20repo-010101?style=flat-square&logo=socketdotio&logoColor=white&labelColor=010101" alt="Socket.IO" />
   <img src="https://img.shields.io/badge/Axios-1%20repo-5A29E4?style=flat-square&logo=axios&logoColor=white&labelColor=5A29E4" alt="Axios" />
+  <img src="https://img.shields.io/badge/FFmpeg-1%20repo-007808?style=flat-square&logo=ffmpeg&logoColor=white&labelColor=007808" alt="FFmpeg" />
   <img src="https://img.shields.io/badge/PDF%20Engine-1%20repo-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white&labelColor=EC1C24" alt="PDF Engine" />
 </td></tr>
 <tr><td width="24%" valign="middle"><b>☁️ Data, Cloud &amp; DevOps</b></td><td>
-  <img src="https://img.shields.io/badge/Vercel-10%20repos-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=000000" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Vercel-11%20repos-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=000000" alt="Vercel" />
   <img src="https://img.shields.io/badge/MongoDB-4%20repos-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Docker-3%20repos-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/PostgreSQL-2%20repos-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=4169E1" alt="PostgreSQL" />
@@ -96,13 +97,13 @@
 </td></tr>
 <tr><td width="24%" valign="middle"><b>🧪 Testing &amp; Tooling</b></td><td>
   <img src="https://img.shields.io/badge/ESLint-11%20repos-4B32C3?style=flat-square&logo=eslint&logoColor=white&labelColor=4B32C3" alt="ESLint" />
+  <img src="https://img.shields.io/badge/Playwright-8%20repos-2EAD33?style=flat-square&logo=playwright&logoColor=white&labelColor=2EAD33" alt="Playwright" />
   <img src="https://img.shields.io/badge/PostCSS-8%20repos-DD3A0A?style=flat-square&logo=postcss&logoColor=white&labelColor=DD3A0A" alt="PostCSS" />
-  <img src="https://img.shields.io/badge/Playwright-7%20repos-2EAD33?style=flat-square&logo=playwright&logoColor=white&labelColor=2EAD33" alt="Playwright" />
   <img src="https://img.shields.io/badge/Vitest-5%20repos-6E9F18?style=flat-square&logo=vitest&logoColor=white&labelColor=6E9F18" alt="Vitest" />
   <img src="https://img.shields.io/badge/Testing%20Library-3%20repos-E33332?style=flat-square&logo=testinglibrary&logoColor=white&labelColor=E33332" alt="Testing Library" />
 </td></tr>
 </table>
-<p align="center"><sub>Auto-detected from <b>16</b> dependency manifests across <b>14</b> original repositories · badge = number of repos using it · last sync Nov 11, 2026</sub></p>
+<p align="center"><sub>Auto-detected from <b>17</b> dependency manifests across <b>15</b> original repositories · badge = number of repos using it · last sync Nov 11, 2026</sub></p>
 <!-- TECH-STACK:END -->
 
 <br/>
