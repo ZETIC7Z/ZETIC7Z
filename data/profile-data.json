@@ -1,86 +1,86 @@
 {
-  "syncedAt": "2026-11-13T06:29:03.481Z",
+  "syncedAt": "2026-11-13T21:54:09.402Z",
   "metrics": {
-    "publicRepos": 63,
-    "originals": 16,
-    "contributions": 2422,
+    "publicRepos": 64,
+    "originals": 17,
+    "contributions": 2423,
     "commits": 2351,
     "stars": 0,
     "followers": 2,
     "techCount": 42,
-    "syncedLabel": "Nov 13, 2026"
+    "syncedLabel": "Nov 14, 2026"
   },
   "languages": [
     {
-      "name": "TypeScript",
-      "color": "#3178c6",
-      "pct": 64.95321328810086
-    },
-    {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "pct": 16.754605613344147
+      "pct": 46.80158417214872
     },
     {
-      "name": "NSIS",
-      "color": "#8b949e",
-      "pct": 9.30842236619991
-    },
-    {
-      "name": "Python",
-      "color": "#3572A5",
-      "pct": 4.467956317156838
-    },
-    {
-      "name": "CSS",
-      "color": "#663399",
-      "pct": 2.9942788094597055
+      "name": "TypeScript",
+      "color": "#3178c6",
+      "pct": 34.58676246339561
     },
     {
       "name": "HTML",
       "color": "#e34c26",
-      "pct": 0.8198018916328204
+      "pct": 9.285295911812629
+    },
+    {
+      "name": "NSIS",
+      "color": "#8b949e",
+      "pct": 4.903544646913178
+    },
+    {
+      "name": "Python",
+      "color": "#3572A5",
+      "pct": 2.4688837946414472
+    },
+    {
+      "name": "CSS",
+      "color": "#663399",
+      "pct": 1.5822753111920038
     },
     {
       "name": "Other (15)",
       "color": "#6e7681",
-      "pct": 0.7017217141057297
+      "pct": 0.37165369989640934
     }
   ],
   "technologies": {
-    "JavaScript": 16,
-    "CSS3": 15,
-    "React": 14,
-    "TypeScript": 13,
-    "Tailwind CSS": 13,
-    "Vite": 11,
-    "HTML5": 11,
-    "Vercel": 11,
+    "JavaScript": 17,
+    "CSS3": 16,
+    "React": 15,
+    "TypeScript": 14,
+    "Tailwind CSS": 14,
+    "Vite": 12,
+    "HTML5": 12,
+    "Vercel": 12,
+    "Framer Motion": 11,
     "ESLint": 11,
-    "Framer Motion": 10,
-    "PostCSS": 9,
+    "PostCSS": 10,
     "Playwright": 8,
     "Node.js": 8,
     "React Router": 7,
     "PWA": 6,
     "JWT Auth": 6,
     "Radix UI": 6,
+    "Three.js": 5,
     "Recharts": 5,
     "Zod": 5,
     "Vitest": 5,
-    "Three.js": 4,
+    "GSAP": 4,
     "Express": 4,
     "MongoDB": 4,
     "TanStack Query": 4,
-    "GSAP": 3,
+    "React Three Fiber": 3,
+    "Lenis": 3,
+    "Python": 3,
     "Next.js": 3,
     "Docker": 3,
     "Testing Library": 3,
-    "Lenis": 2,
     "PostgreSQL": 2,
     "Supabase": 2,
-    "Python": 2,
-    "React Three Fiber": 2,
     "Zustand": 2,
     "HLS.js": 2,
     "GitHub Actions": 2,
@@ -92,6 +92,28 @@
     "Axios": 1
   },
   "repositories": [
+    {
+      "name": "el-farm-cafe-and-restaurant",
+      "pushedAt": "2026-11-13T16:26:24Z",
+      "language": "JavaScript",
+      "tech": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Vite",
+        "Tailwind CSS",
+        "HTML5",
+        "CSS3",
+        "Three.js",
+        "React Three Fiber",
+        "GSAP",
+        "Framer Motion",
+        "Lenis",
+        "Python",
+        "Vercel",
+        "PostCSS"
+      ]
+    },
     {
       "name": "RESTO-POS",
       "pushedAt": "2026-11-11T08:39:24Z",
