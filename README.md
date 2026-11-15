@@ -93,7 +93,7 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2%20repos-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=2088FF" alt="GitHub Actions" />
 </td></tr>
 <tr><td width="24%" valign="middle"><b>📱 Mobile, Desktop &amp; PWA</b></td><td>
-  <img src="https://img.shields.io/badge/PWA-6%20repos-5A0FC8?style=flat-square&logo=pwa&logoColor=white&labelColor=5A0FC8" alt="PWA" />
+  <img src="https://img.shields.io/badge/PWA-7%20repos-5A0FC8?style=flat-square&logo=pwa&logoColor=white&labelColor=5A0FC8" alt="PWA" />
 </td></tr>
 <tr><td width="24%" valign="middle"><b>🧪 Testing &amp; Tooling</b></td><td>
   <img src="https://img.shields.io/badge/ESLint-11%20repos-4B32C3?style=flat-square&logo=eslint&logoColor=white&labelColor=4B32C3" alt="ESLint" />

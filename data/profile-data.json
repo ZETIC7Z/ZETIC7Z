@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-15T16:56:56.316Z",
+  "syncedAt": "2026-11-15T21:38:45.137Z",
   "metrics": {
     "publicRepos": 64,
     "originals": 17,
@@ -14,37 +14,37 @@
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "pct": 46.80158417214872
+      "pct": 42.12421695431043
     },
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "pct": 34.58676246339561
+      "pct": 30.735926396034035
     },
     {
       "name": "HTML",
       "color": "#e34c26",
-      "pct": 9.285295911812629
+      "pct": 18.92654061519654
     },
     {
       "name": "NSIS",
       "color": "#8b949e",
-      "pct": 4.903544646913178
+      "pct": 4.3575916510456025
     },
     {
       "name": "Python",
       "color": "#3572A5",
-      "pct": 2.4688837946414472
+      "pct": 2.121117138924221
     },
     {
       "name": "CSS",
       "color": "#663399",
-      "pct": 1.5822753111920038
+      "pct": 1.4061072514239796
     },
     {
       "name": "Other (15)",
       "color": "#6e7681",
-      "pct": 0.37165369989640934
+      "pct": 0.32849999306519073
     }
   ],
   "technologies": {
@@ -61,8 +61,8 @@
     "PostCSS": 10,
     "Playwright": 8,
     "Node.js": 8,
+    "PWA": 7,
     "React Router": 7,
-    "PWA": 6,
     "JWT Auth": 6,
     "Radix UI": 6,
     "Three.js": 5,
@@ -94,7 +94,7 @@
   "repositories": [
     {
       "name": "el-farm-cafe-and-restaurant",
-      "pushedAt": "2026-11-13T16:26:24Z",
+      "pushedAt": "2026-11-15T20:29:16Z",
       "language": "JavaScript",
       "tech": [
         "React",
@@ -111,6 +111,7 @@
         "Lenis",
         "Python",
         "Vercel",
+        "PWA",
         "PostCSS"
       ]
     },
