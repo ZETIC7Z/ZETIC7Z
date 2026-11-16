@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-14%20repos-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=06B6D4" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Vite-12%20repos-646CFF?style=flat-square&logo=vite&logoColor=white&labelColor=646CFF" alt="Vite" />
   <img src="https://img.shields.io/badge/HTML5-12%20repos-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/React%20Router-7%20repos-CA4245?style=flat-square&logo=reactrouter&logoColor=white&labelColor=CA4245" alt="React Router" />
+  <img src="https://img.shields.io/badge/React%20Router-8%20repos-CA4245?style=flat-square&logo=reactrouter&logoColor=white&labelColor=CA4245" alt="React Router" />
   <img src="https://img.shields.io/badge/Radix%20UI-6%20repos-161618?style=flat-square&logo=radixui&logoColor=white&labelColor=161618" alt="Radix UI" />
   <img src="https://img.shields.io/badge/TanStack%20Query-4%20repos-FF4154?style=flat-square&logo=reactquery&logoColor=white&labelColor=FF4154" alt="TanStack Query" />
   <img src="https://img.shields.io/badge/Next.js-3%20repos-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=000000" alt="Next.js" />
@@ -85,11 +85,11 @@
   <img src="https://img.shields.io/badge/PDF%20Engine-1%20repo-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white&labelColor=EC1C24" alt="PDF Engine" />
 </td></tr>
 <tr><td width="24%" valign="middle"><b>☁️ Data, Cloud &amp; DevOps</b></td><td>
-  <img src="https://img.shields.io/badge/Vercel-12%20repos-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=000000" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Vercel-13%20repos-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=000000" alt="Vercel" />
   <img src="https://img.shields.io/badge/MongoDB-4%20repos-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-3%20repos-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3%20repos-3FCF8E?style=flat-square&logo=supabase&logoColor=white&labelColor=3FCF8E" alt="Supabase" />
   <img src="https://img.shields.io/badge/Docker-3%20repos-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/PostgreSQL-2%20repos-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-2%20repos-3FCF8E?style=flat-square&logo=supabase&logoColor=white&labelColor=3FCF8E" alt="Supabase" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2%20repos-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=2088FF" alt="GitHub Actions" />
 </td></tr>
 <tr><td width="24%" valign="middle"><b>📱 Mobile, Desktop &amp; PWA</b></td><td>
@@ -103,7 +103,7 @@
   <img src="https://img.shields.io/badge/Testing%20Library-3%20repos-E33332?style=flat-square&logo=testinglibrary&logoColor=white&labelColor=E33332" alt="Testing Library" />
 </td></tr>
 </table>
-<p align="center"><sub>Auto-detected from <b>19</b> dependency manifests across <b>17</b> original repositories · badge = number of repos using it · last sync Nov 16, 2026</sub></p>
+<p align="center"><sub>Auto-detected from <b>19</b> dependency manifests across <b>17</b> original repositories · badge = number of repos using it · last sync Nov 17, 2026</sub></p>
 <!-- TECH-STACK:END -->
 
 <br/>

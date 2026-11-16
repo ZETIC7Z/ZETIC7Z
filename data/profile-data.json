@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-16T09:25:28.034Z",
+  "syncedAt": "2026-11-16T20:16:32.173Z",
   "metrics": {
     "publicRepos": 64,
     "originals": 17,
@@ -8,43 +8,43 @@
     "stars": 0,
     "followers": 2,
     "techCount": 42,
-    "syncedLabel": "Nov 16, 2026"
+    "syncedLabel": "Nov 17, 2026"
   },
   "languages": [
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "pct": 42.154045973599565
+      "pct": 42.049100483126885
     },
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "pct": 30.61864803889226
+      "pct": 30.73886698806165
     },
     {
       "name": "HTML",
       "color": "#e34c26",
-      "pct": 19.054131931717354
+      "pct": 19.00623982563658
     },
     {
       "name": "NSIS",
       "color": "#8b949e",
-      "pct": 4.340964490264944
+      "pct": 4.330157350949286
     },
     {
       "name": "Python",
       "color": "#3572A5",
-      "pct": 2.1042210214233035
+      "pct": 2.0989824137865774
     },
     {
       "name": "CSS",
       "color": "#663399",
-      "pct": 1.4007420007955353
+      "pct": 1.397254754129077
     },
     {
       "name": "Other (15)",
       "color": "#6e7681",
-      "pct": 0.32724654330703595
+      "pct": 0.3793981843099487
     }
   ],
   "technologies": {
@@ -53,16 +53,16 @@
     "React": 15,
     "TypeScript": 14,
     "Tailwind CSS": 14,
+    "Vercel": 13,
     "Vite": 12,
     "HTML5": 12,
-    "Vercel": 12,
     "Framer Motion": 11,
     "ESLint": 11,
     "PostCSS": 10,
+    "React Router": 8,
     "Playwright": 8,
     "Node.js": 8,
     "PWA": 7,
-    "React Router": 7,
     "JWT Auth": 6,
     "Radix UI": 6,
     "Three.js": 5,
@@ -73,14 +73,14 @@
     "Express": 4,
     "MongoDB": 4,
     "TanStack Query": 4,
+    "PostgreSQL": 3,
+    "Supabase": 3,
     "React Three Fiber": 3,
     "Lenis": 3,
     "Python": 3,
     "Next.js": 3,
     "Docker": 3,
     "Testing Library": 3,
-    "PostgreSQL": 2,
-    "Supabase": 2,
     "Zustand": 2,
     "HLS.js": 2,
     "GitHub Actions": 2,
@@ -92,6 +92,26 @@
     "Axios": 1
   },
   "repositories": [
+    {
+      "name": "RESTO-POS",
+      "pushedAt": "2026-11-16T17:35:52Z",
+      "language": "TypeScript",
+      "tech": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Vite",
+        "Tailwind CSS",
+        "React Router",
+        "HTML5",
+        "CSS3",
+        "PostgreSQL",
+        "Supabase",
+        "Vercel",
+        "PWA",
+        "PostCSS"
+      ]
+    },
     {
       "name": "el-farm-cafe-and-restaurant",
       "pushedAt": "2026-11-16T05:42:02Z",
@@ -111,22 +131,6 @@
         "Lenis",
         "Python",
         "Vercel",
-        "PWA",
-        "PostCSS"
-      ]
-    },
-    {
-      "name": "RESTO-POS",
-      "pushedAt": "2026-11-11T08:39:24Z",
-      "language": "TypeScript",
-      "tech": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Vite",
-        "Tailwind CSS",
-        "HTML5",
-        "CSS3",
         "PWA",
         "PostCSS"
       ]
