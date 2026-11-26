@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-26T04:53:23.525Z",
+  "syncedAt": "2026-11-26T14:57:13.632Z",
   "metrics": {
     "publicRepos": 64,
     "originals": 17,
@@ -14,37 +14,37 @@
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "pct": 42.049100483126885
+      "pct": 42.046079465964596
     },
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "pct": 30.73886698806165
+      "pct": 30.74114556056296
     },
     {
       "name": "HTML",
       "color": "#e34c26",
-      "pct": 19.00623982563658
+      "pct": 19.004874322545096
     },
     {
       "name": "NSIS",
       "color": "#8b949e",
-      "pct": 4.330157350949286
+      "pct": 4.329846250841975
     },
     {
       "name": "Python",
       "color": "#3572A5",
-      "pct": 2.0989824137865774
+      "pct": 2.0988316124181168
     },
     {
       "name": "CSS",
       "color": "#663399",
-      "pct": 1.397254754129077
+      "pct": 1.3998518612156978
     },
     {
       "name": "Other (15)",
       "color": "#6e7681",
-      "pct": 0.3793981843099487
+      "pct": 0.3793709264515648
     }
   ],
   "technologies": {
@@ -59,7 +59,7 @@
     "Framer Motion": 11,
     "ESLint": 11,
     "PostCSS": 10,
-    "React Router": 8,
+    "React Router": 9,
     "Playwright": 8,
     "Node.js": 8,
     "PWA": 7,
@@ -70,14 +70,14 @@
     "Zod": 5,
     "Vitest": 5,
     "GSAP": 4,
+    "Supabase": 4,
     "Express": 4,
     "MongoDB": 4,
     "TanStack Query": 4,
-    "PostgreSQL": 3,
-    "Supabase": 3,
     "React Three Fiber": 3,
     "Lenis": 3,
     "Python": 3,
+    "PostgreSQL": 3,
     "Next.js": 3,
     "Docker": 3,
     "Testing Library": 3,
@@ -93,8 +93,33 @@
   },
   "repositories": [
     {
+      "name": "el-farm-cafe-and-restaurant",
+      "pushedAt": "2026-11-26T14:48:56Z",
+      "language": "JavaScript",
+      "tech": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Vite",
+        "Tailwind CSS",
+        "React Router",
+        "HTML5",
+        "CSS3",
+        "Three.js",
+        "React Three Fiber",
+        "GSAP",
+        "Framer Motion",
+        "Lenis",
+        "Python",
+        "Supabase",
+        "Vercel",
+        "PWA",
+        "PostCSS"
+      ]
+    },
+    {
       "name": "RESTO-POS",
-      "pushedAt": "2026-11-16T17:35:52Z",
+      "pushedAt": "2026-11-26T14:47:28Z",
       "language": "TypeScript",
       "tech": [
         "React",
@@ -107,29 +132,6 @@
         "CSS3",
         "PostgreSQL",
         "Supabase",
-        "Vercel",
-        "PWA",
-        "PostCSS"
-      ]
-    },
-    {
-      "name": "el-farm-cafe-and-restaurant",
-      "pushedAt": "2026-11-16T05:42:02Z",
-      "language": "JavaScript",
-      "tech": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Vite",
-        "Tailwind CSS",
-        "HTML5",
-        "CSS3",
-        "Three.js",
-        "React Three Fiber",
-        "GSAP",
-        "Framer Motion",
-        "Lenis",
-        "Python",
         "Vercel",
         "PWA",
         "PostCSS"
