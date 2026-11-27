@@ -15,6 +15,8 @@
  * Token: GH_TOKEN | GITHUB_TOKEN | PROFILE_TOKEN env var.
  */
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
+import { existsSync } from 'node:fs';
+import crypto from 'node:crypto';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -109,14 +111,17 @@ const CATALOG = [
   { name: 'Sass', cat: 'frontend', color: 'CC6699', logo: 'sass', deps: ['sass', 'node-sass'] },
   { name: 'HTML5', cat: 'frontend', color: 'E34F26', logo: 'html5', lang: 'HTML' },
   { name: 'CSS3', cat: 'frontend', color: '1572B6', logo: 'css', lang: 'CSS' },
+  { name: 'Lucide', cat: 'frontend', color: 'F56565', logo: 'lucide', deps: ['lucide-react', 'lucide'] },
   // 3D, motion & visualisation
-  { name: 'Three.js', cat: 'creative', color: '000000', logo: 'threedotjs', deps: ['three'] },
+  { name: 'Three.js', cat: 'creative', color: '000000', logo: 'threedotjs', deps: ['three'], files: [/three\.min\.js$/i] },
+  { name: 'WebGL', cat: 'creative', color: '990000', logo: 'webgl', deps: ['three', '@react-three/fiber'], files: [/three\.min\.js$/i] },
+  { name: 'Swiper', cat: 'creative', color: '6332F6', logo: 'swiper', deps: ['swiper'], files: [/swiper-bundle\.min\.js$/i] },
   { name: 'React Three Fiber', cat: 'creative', color: '000000', logo: 'threedotjs', deps: ['@react-three/fiber'] },
-  { name: 'GSAP', cat: 'creative', color: '0AE448', logo: 'greensock', logoColor: '000000', deps: ['gsap', '@gsap/*'] },
+  { name: 'GSAP', cat: 'creative', color: '0AE448', logo: 'greensock', logoColor: '000000', deps: ['gsap', '@gsap/*'], files: [/gsap\.min\.js$/i] },
   { name: 'Framer Motion', cat: 'creative', color: '0055FF', logo: 'framer', deps: ['framer-motion', 'motion'] },
   { name: 'Lenis', cat: 'creative', color: 'FF98A2', logo: 'smoothcomp', deps: ['lenis', '@studio-freight/lenis'] },
   { name: 'Lottie', cat: 'creative', color: '00DDB3', logo: 'lottiefiles', deps: ['lottie-web', 'lottie-react', '@lottiefiles/*'] },
-  { name: 'Spline', cat: 'creative', color: '1D1D1F', logo: 'spline', deps: ['@splinetool/*'] },
+  { name: 'Spline', cat: 'creative', color: '1D1D1F', logo: 'threedotjs', deps: ['@splinetool/*'] },
   { name: 'Chart.js', cat: 'creative', color: 'FF6384', logo: 'chartdotjs', deps: ['chart.js', 'react-chartjs-2'] },
   { name: 'Recharts', cat: 'creative', color: '22B5BF', logo: 'chartdotjs', deps: ['recharts'] },
   { name: 'D3.js', cat: 'creative', color: 'F9A03C', logo: 'd3', deps: ['d3'] },
@@ -138,10 +143,10 @@ const CATALOG = [
   { name: 'Puppeteer', cat: 'backend', color: '40B5A4', logo: 'puppeteer', deps: ['puppeteer', 'puppeteer-core', 'puppeteer-extra'] },
   { name: 'JWT Auth', cat: 'backend', color: '000000', logo: 'jsonwebtokens', deps: ['jsonwebtoken', 'jose', 'jwt-decode'] },
   { name: 'Zod', cat: 'backend', color: '3E67B1', logo: 'zod', deps: ['zod'] },
-  { name: 'HLS.js', cat: 'backend', color: 'FF5500', logo: 'videodotjs', deps: ['hls.js', 'video.js', '@videojs/*', 'm3u8-parser'] },
+  { name: 'HLS.js', cat: 'backend', color: 'FF5500', logo: 'vlcmediaplayer', deps: ['hls.js', 'video.js', '@videojs/*', 'm3u8-parser'] },
   { name: 'FFmpeg', cat: 'backend', color: '007808', logo: 'ffmpeg', deps: ['fluent-ffmpeg', '@ffmpeg/*', 'ffmpeg-static'] },
-  { name: 'PDF Engine', cat: 'backend', color: 'EC1C24', logo: 'adobeacrobatreader', deps: ['pdf-lib', 'pdfjs-dist', 'jspdf', '@react-pdf/renderer', 'pdfkit'] },
-  { name: 'OpenAI', cat: 'backend', color: '412991', logo: 'openai', deps: ['openai'], py: ['openai'] },
+  { name: 'PDF Engine', cat: 'backend', color: 'EC1C24', logo: 'files', deps: ['pdf-lib', 'pdfjs-dist', 'jspdf', '@react-pdf/renderer', 'pdfkit'] },
+  { name: 'OpenAI', cat: 'backend', color: '412991', logo: 'probot', deps: ['openai'], py: ['openai'] },
   { name: 'Gemini AI', cat: 'backend', color: '8E75B2', logo: 'googlegemini', deps: ['@google/generative-ai', '@google/genai'], py: ['google-generativeai', 'google-genai'] },
   { name: 'Pydantic', cat: 'backend', color: 'E92063', logo: 'pydantic', py: ['pydantic'] },
   { name: 'Pandas', cat: 'backend', color: '150458', logo: 'pandas', py: ['pandas'] },
@@ -171,9 +176,10 @@ const CATALOG = [
   { name: 'Electron', cat: 'mobile', color: '47848F', logo: 'electron', deps: ['electron'] },
   { name: 'Tauri', cat: 'mobile', color: '24C8DB', logo: 'tauri', deps: ['@tauri-apps/*'] },
   { name: 'Capacitor', cat: 'mobile', color: '119EFF', logo: 'capacitor', deps: ['@capacitor/core'] },
+  { name: 'Android', cat: 'mobile', color: '3DDC84', logo: 'android', files: [/\.apk$/i, /(^|\/)android\//] },
   { name: 'PWA', cat: 'mobile', color: '5A0FC8', logo: 'pwa', deps: ['vite-plugin-pwa', 'next-pwa', '@ducanh2912/next-pwa', 'workbox-*', '@serwist/*', 'serwist'], files: [/(^|\/)(manifest\.webmanifest|site\.webmanifest)$/] },
   // Testing & tooling
-  { name: 'Playwright', cat: 'tooling', color: '2EAD33', logo: 'playwright', deps: ['playwright', '@playwright/test', 'playwright-extra', 'playwright-core'], py: ['playwright'] },
+  { name: 'Playwright', cat: 'tooling', color: '2EAD33', logo: 'testinglibrary', deps: ['playwright', '@playwright/test', 'playwright-extra', 'playwright-core'], py: ['playwright'] },
   { name: 'Vitest', cat: 'tooling', color: '6E9F18', logo: 'vitest', deps: ['vitest'] },
   { name: 'Jest', cat: 'tooling', color: 'C21325', logo: 'jest', deps: ['jest'] },
   { name: 'Testing Library', cat: 'tooling', color: 'E33332', logo: 'testinglibrary', deps: ['@testing-library/*'] },
@@ -258,13 +264,13 @@ const fmtNum = (n) => n.toLocaleString('en-US');
 function badge(tech, message) {
   const t = CATALOG.find((c) => c.name === tech);
   if (!t) return '';
-  const label = encodeURIComponent(tech);
   const logo = `&logo=${encodeURIComponent(t.logo)}&logoColor=${encodeURIComponent(t.logoColor || 'white')}`;
   if (message) {
+    const label = encodeURIComponent(tech);
     const msg = encodeURIComponent(message);
     return `<img src="https://img.shields.io/static/v1?label=${label}&message=${msg}&color=${t.color}&style=flat-square${logo}&labelColor=${t.color}" alt="${esc(tech)}" />`;
   }
-  return `<img src="https://img.shields.io/static/v1?label=${label}&message=&color=${t.color}&style=flat-square${logo}" alt="${esc(tech)}" />`;
+  return `<img src="https://img.shields.io/badge/-${shieldText(tech)}-${t.color}?style=flat-square${logo}" alt="${esc(tech)}" />`;
 }
 
 function wrap(text, max, lines) {
@@ -546,7 +552,55 @@ const flagshipSection = `<table width="100%">\n${rowsHtml.join('\n')}\n</table>`
 
 let readme = await readFile(path.join(ROOT, 'README.md'), 'utf8');
 readme = replaceSection(readme, 'TECH-STACK', stackSection);
+
+async function localizeBadges(html) {
+  const dir = path.join(ROOT, 'assets/generated/badges');
+  await mkdir(dir, { recursive: true });
+  const matches = [...html.matchAll(/src="(https:\/\/img\.shields\.io\/[^"]+)"/g)];
+  const uniqueUrls = [...new Set(matches.map((m) => m[1]))];
+  const map = new Map();
+  await Promise.all(uniqueUrls.map(async (url) => {
+    const hash = crypto.createHash('sha1').update(url).digest('hex').slice(0, 12);
+    const rel = `assets/generated/badges/badge-${hash}.svg`;
+    const abs = path.join(ROOT, rel);
+    let needFetch = !existsSync(abs);
+    if (!needFetch) {
+      const existing = await readFile(abs, 'utf8').catch(() => '');
+      if (!existing.includes('<svg') || existing.includes('invalid query parameter')) needFetch = true;
+    }
+    if (needFetch) {
+      for (let attempt = 0; attempt < 3; attempt++) {
+        try {
+          const res = await fetch(url);
+          if (res.ok) {
+            const svg = await res.text();
+            if (svg.includes('<svg') && !svg.includes('invalid query parameter')) {
+              await writeFile(abs, svg, 'utf8');
+              break;
+            }
+          }
+        } catch {}
+        await new Promise((r) => setTimeout(r, 350 * (attempt + 1)));
+      }
+    }
+    if (existsSync(abs)) {
+      const finalSvg = await readFile(abs, 'utf8').catch(() => '');
+      if (finalSvg.includes('<svg') && !finalSvg.includes('invalid query parameter')) {
+        map.set(url, rel);
+      }
+    }
+  }));
+  let out = html;
+  for (const [url, rel] of map.entries()) {
+    out = out.split(`src="${url}"`).join(`src="${rel}"`);
+  }
+  return { html: out, localizedCount: map.size, totalFound: uniqueUrls.length };
+}
+
 readme = replaceSection(readme, 'FLAGSHIP', flagshipSection);
+const badgeSync = await localizeBadges(readme);
+readme = badgeSync.html;
+console.log(`Localized badges: ${badgeSync.localizedCount}/${badgeSync.totalFound}`);
 await writeFile(path.join(ROOT, 'README.md'), readme);
 
 await writeFile(
