@@ -1,11 +1,13 @@
 name: Sync profile with repositories
 
 # Re-scans every public repo (new pushes, new repos, deleted repos, stack changes)
-# and regenerates the stats / language / recent-projects cards + README sections.
+# and regenerates the Obsidian Telemetry SVGs + README sections in real time.
 on:
   schedule:
     - cron: '7 * * * *'   # every hour
   workflow_dispatch:       # manual "Run workflow" button
+  repository_dispatch:
+    types: [repo-created, repo-deleted, star-updated]
   push:
     branches: [main]
     paths:
@@ -30,7 +32,7 @@ jobs:
         with:
           node-version: 20
 
-      - name: Scan repositories and regenerate profile
+      - name: Scan repositories and regenerate Obsidian telemetry SVGs
         env:
           PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }}
           GITHUB_TOKEN: ${{ github.token }}
@@ -44,6 +46,6 @@ jobs:
           fi
           git config user.name  "zeticuz-profile-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A README.md assets/generated data
-          git commit -m "chore(profile): auto-sync repositories & tech stack"
+          git add -A README.md assets data
+          git commit -m "chore(telemetry): auto-sync profile stats & SVG cards"
           git push

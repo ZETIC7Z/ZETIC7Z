@@ -1,0 +1,329 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460" role="img" aria-label="Language Stack Telemetry">
+  <defs>
+    
+    <linearGradient id="neonBarGrad_0" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A8941A"/>
+      <stop offset="55%" stop-color="#F1E05A"/>
+      <stop offset="100%" stop-color="#FFF494"/>
+    </linearGradient>
+    <filter id="neonGlow_0" x="-15%" y="-120%" width="130%" height="340%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3.8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="neonBarGrad_1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1D4B87"/>
+      <stop offset="55%" stop-color="#3178C6"/>
+      <stop offset="100%" stop-color="#69B0FF"/>
+    </linearGradient>
+    <filter id="neonGlow_1" x="-15%" y="-120%" width="130%" height="340%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3.8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="neonBarGrad_2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9C2C10"/>
+      <stop offset="55%" stop-color="#E34C26"/>
+      <stop offset="100%" stop-color="#FF8566"/>
+    </linearGradient>
+    <filter id="neonGlow_2" x="-15%" y="-120%" width="130%" height="340%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3.8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="neonBarGrad_3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#52525B"/>
+      <stop offset="55%" stop-color="#9CA3AF"/>
+      <stop offset="100%" stop-color="#F3F4F6"/>
+    </linearGradient>
+    <filter id="neonGlow_3" x="-15%" y="-120%" width="130%" height="340%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3.8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="neonBarGrad_4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E4669"/>
+      <stop offset="55%" stop-color="#3572A5"/>
+      <stop offset="100%" stop-color="#70B5F0"/>
+    </linearGradient>
+    <filter id="neonGlow_4" x="-15%" y="-120%" width="130%" height="340%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3.8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="neonBarGrad_5" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4B2E61"/>
+      <stop offset="55%" stop-color="#7C5295"/>
+      <stop offset="100%" stop-color="#C4B5FD"/>
+    </linearGradient>
+    <filter id="neonGlow_5" x="-15%" y="-120%" width="130%" height="340%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3.8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="neonBarGrad_6" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3F444B"/>
+      <stop offset="55%" stop-color="#6E7681"/>
+      <stop offset="100%" stop-color="#D1D5DB"/>
+    </linearGradient>
+    <filter id="neonGlow_6" x="-15%" y="-120%" width="130%" height="340%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3.8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>/*<![CDATA[*/
+      rect, text { transition: all 0.2s ease; }
+    /*]]>*/</style>
+  </defs>
+
+  <rect x="0.75" y="0.75" width="898.5" height="458.5" rx="12" fill="#121418" stroke="#1F2229" stroke-width="1.5"/>
+
+  <!-- Core Technologies Header -->
+  <text x="24" y="30" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1.2" fill="#8B929E">CORE TECHNOLOGIES</text>
+  <text x="876" y="30" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#5C6370" text-anchor="end">10 active runtimes</text>
+  
+    <g class="c-pill c-pill-0">
+      <style>/*<![CDATA[*/
+        .c-pill-0:hover rect { stroke: #F1E05A; fill: #F1E05A; fill-opacity: 0.14; }
+        .c-pill-0:hover text { fill: #FFF494; }
+      /*]]>*/</style>
+      <rect x="24" y="46" width="104" height="24" rx="12" fill="#15181E" stroke="#232732" stroke-width="1"/>
+      <circle cx="36" cy="58" r="3.5" fill="#F1E05A"/>
+      <text x="45" y="62" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#E5E7EB">JavaScript</text>
+    </g>
+    <g class="c-pill c-pill-1">
+      <style>/*<![CDATA[*/
+        .c-pill-1:hover rect { stroke: #3178C6; fill: #3178C6; fill-opacity: 0.14; }
+        .c-pill-1:hover text { fill: #69B0FF; }
+      /*]]>*/</style>
+      <rect x="136" y="46" width="104" height="24" rx="12" fill="#15181E" stroke="#232732" stroke-width="1"/>
+      <circle cx="148" cy="58" r="3.5" fill="#3178C6"/>
+      <text x="157" y="62" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#E5E7EB">TypeScript</text>
+    </g>
+    <g class="c-pill c-pill-2">
+      <style>/*<![CDATA[*/
+        .c-pill-2:hover rect { stroke: #E34C26; fill: #E34C26; fill-opacity: 0.14; }
+        .c-pill-2:hover text { fill: #FF8566; }
+      /*]]>*/</style>
+      <rect x="248" y="46" width="61" height="24" rx="12" fill="#15181E" stroke="#232732" stroke-width="1"/>
+      <circle cx="260" cy="58" r="3.5" fill="#E34C26"/>
+      <text x="269" y="62" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#E5E7EB">HTML</text>
+    </g>
+    <g class="c-pill c-pill-3">
+      <style>/*<![CDATA[*/
+        .c-pill-3:hover rect { stroke: #9CA3AF; fill: #9CA3AF; fill-opacity: 0.14; }
+        .c-pill-3:hover text { fill: #F3F4F6; }
+      /*]]>*/</style>
+      <rect x="317" y="46" width="61" height="24" rx="12" fill="#15181E" stroke="#232732" stroke-width="1"/>
+      <circle cx="329" cy="58" r="3.5" fill="#9CA3AF"/>
+      <text x="338" y="62" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#E5E7EB">NSIS</text>
+    </g>
+    <g class="c-pill c-pill-4">
+      <style>/*<![CDATA[*/
+        .c-pill-4:hover rect { stroke: #3572A5; fill: #3572A5; fill-opacity: 0.14; }
+        .c-pill-4:hover text { fill: #70B5F0; }
+      /*]]>*/</style>
+      <rect x="386" y="46" width="75" height="24" rx="12" fill="#15181E" stroke="#232732" stroke-width="1"/>
+      <circle cx="398" cy="58" r="3.5" fill="#3572A5"/>
+      <text x="407" y="62" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#E5E7EB">Python</text>
+    </g>
+    <g class="c-pill c-pill-5">
+      <style>/*<![CDATA[*/
+        .c-pill-5:hover rect { stroke: #7C5295; fill: #7C5295; fill-opacity: 0.14; }
+        .c-pill-5:hover text { fill: #C4B5FD; }
+      /*]]>*/</style>
+      <rect x="469" y="46" width="54" height="24" rx="12" fill="#15181E" stroke="#232732" stroke-width="1"/>
+      <circle cx="481" cy="58" r="3.5" fill="#7C5295"/>
+      <text x="490" y="62" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#E5E7EB">CSS</text>
+    </g>
+    <g class="c-pill c-pill-6">
+      <style>/*<![CDATA[*/
+        .c-pill-6:hover rect { stroke: #8B929E; fill: #8B929E; fill-opacity: 0.14; }
+        .c-pill-6:hover text { fill: #F3F4F6; }
+      /*]]>*/</style>
+      <rect x="531" y="46" width="82" height="24" rx="12" fill="#15181E" stroke="#232732" stroke-width="1"/>
+      <circle cx="543" cy="58" r="3.5" fill="#8B929E"/>
+      <text x="552" y="62" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#E5E7EB">PLpgSQL</text>
+    </g>
+    <g class="c-pill c-pill-7">
+      <style>/*<![CDATA[*/
+        .c-pill-7:hover rect { stroke: #00B4AB; fill: #00B4AB; fill-opacity: 0.14; }
+        .c-pill-7:hover text { fill: #5EEAD4; }
+      /*]]>*/</style>
+      <rect x="621" y="46" width="61" height="24" rx="12" fill="#15181E" stroke="#232732" stroke-width="1"/>
+      <circle cx="633" cy="58" r="3.5" fill="#00B4AB"/>
+      <text x="642" y="62" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#E5E7EB">Dart</text>
+    </g>
+    <g class="c-pill c-pill-8">
+      <style>/*<![CDATA[*/
+        .c-pill-8:hover rect { stroke: #F34B7D; fill: #F34B7D; fill-opacity: 0.14; }
+        .c-pill-8:hover text { fill: #FDA4AF; }
+      /*]]>*/</style>
+      <rect x="690" y="46" width="54" height="24" rx="12" fill="#15181E" stroke="#232732" stroke-width="1"/>
+      <circle cx="702" cy="58" r="3.5" fill="#F34B7D"/>
+      <text x="711" y="62" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#E5E7EB">C++</text>
+    </g>
+    <g class="c-pill c-pill-9">
+      <style>/*<![CDATA[*/
+        .c-pill-9:hover rect { stroke: #8B929E; fill: #8B929E; fill-opacity: 0.14; }
+        .c-pill-9:hover text { fill: #F3F4F6; }
+      /*]]>*/</style>
+      <rect x="752" y="46" width="68" height="24" rx="12" fill="#15181E" stroke="#232732" stroke-width="1"/>
+      <circle cx="764" cy="58" r="3.5" fill="#8B929E"/>
+      <text x="773" y="62" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#E5E7EB">CMake</text>
+    </g>
+
+  <line x1="24" y1="88" x2="876" y2="88" stroke="#1F2229" stroke-width="1"/>
+
+  <!-- LANGUAGE.STACK Subheader -->
+  <circle cx="29" cy="110" r="3.5" fill="#10B981"/>
+  <text x="41" y="114" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" letter-spacing="1.2" fill="#F3F4F6">LANGUAGE.STACK</text>
+  <text x="172" y="114" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#5C6370">./stack.scan --all</text>
+  <text x="876" y="114" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8B929E" text-anchor="end">7 languages · byte-weighted</text>
+
+  
+    <g>
+      <circle cx="30" cy="142" r="4.8" fill="#F1E05A" filter="url(#neonGlow_0)"/>
+      <text x="44" y="146" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#F3F4F6">JavaScript</text>
+      <text x="290" y="146" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="700" fill="#F5E56B" text-anchor="end">41.7%</text>
+
+      <!-- Recessed Dark Track -->
+      <rect x="308" y="136" width="564" height="10" rx="5" fill="#090A0E" stroke="#1F2229" stroke-width="1"/>
+
+      <!-- Solid Neon Glow Fill Bar (Clean Smooth Sweep + Pulsing Outer Glow, ZERO Diagonal Stripes) -->
+      <rect x="308" y="136" width="0" height="10" rx="5" fill="url(#neonBarGrad_0)" filter="url(#neonGlow_0)">
+        <animate attributeName="width" from="0" to="235.4" dur="1.35s" begin="0.14s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/>
+        <animate attributeName="opacity" values="0.86;1;0.86" dur="2.4s" begin="0.14s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="308" cy="141" r="3.6" fill="#FFFFFF" opacity="0.88" filter="url(#neonGlow_0)">
+        <animate attributeName="cx" from="308" to="541.4" dur="1.35s" begin="0.14s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/>
+        <animate attributeName="opacity" values="0.95;0.45;0.95" dur="1.7s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g>
+      <circle cx="30" cy="180" r="4.8" fill="#3178C6" filter="url(#neonGlow_1)"/>
+      <text x="44" y="184" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#F3F4F6">TypeScript</text>
+      <text x="290" y="184" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="700" fill="#5B9EEB" text-anchor="end">31.3%</text>
+
+      <!-- Recessed Dark Track -->
+      <rect x="308" y="174" width="564" height="10" rx="5" fill="#090A0E" stroke="#1F2229" stroke-width="1"/>
+
+      <!-- Solid Neon Glow Fill Bar (Clean Smooth Sweep + Pulsing Outer Glow, ZERO Diagonal Stripes) -->
+      <rect x="308" y="174" width="0" height="10" rx="5" fill="url(#neonBarGrad_1)" filter="url(#neonGlow_1)">
+        <animate attributeName="width" from="0" to="176.6" dur="1.35s" begin="0.23s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/>
+        <animate attributeName="opacity" values="0.86;1;0.86" dur="2.4s" begin="0.23s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="308" cy="179" r="3.6" fill="#FFFFFF" opacity="0.88" filter="url(#neonGlow_1)">
+        <animate attributeName="cx" from="308" to="482.6" dur="1.35s" begin="0.23s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/>
+        <animate attributeName="opacity" values="0.95;0.45;0.95" dur="1.7s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g>
+      <circle cx="30" cy="218" r="4.8" fill="#E34C26" filter="url(#neonGlow_2)"/>
+      <text x="44" y="222" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#F3F4F6">HTML</text>
+      <text x="290" y="222" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="700" fill="#F26B49" text-anchor="end">18.8%</text>
+
+      <!-- Recessed Dark Track -->
+      <rect x="308" y="212" width="564" height="10" rx="5" fill="#090A0E" stroke="#1F2229" stroke-width="1"/>
+
+      <!-- Solid Neon Glow Fill Bar (Clean Smooth Sweep + Pulsing Outer Glow, ZERO Diagonal Stripes) -->
+      <rect x="308" y="212" width="0" height="10" rx="5" fill="url(#neonBarGrad_2)" filter="url(#neonGlow_2)">
+        <animate attributeName="width" from="0" to="106.2" dur="1.35s" begin="0.32s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/>
+        <animate attributeName="opacity" values="0.86;1;0.86" dur="2.4s" begin="0.32s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="308" cy="217" r="3.6" fill="#FFFFFF" opacity="0.88" filter="url(#neonGlow_2)">
+        <animate attributeName="cx" from="308" to="412.2" dur="1.35s" begin="0.32s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/>
+        <animate attributeName="opacity" values="0.95;0.45;0.95" dur="1.7s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g>
+      <circle cx="30" cy="256" r="4.8" fill="#9CA3AF" filter="url(#neonGlow_3)"/>
+      <text x="44" y="260" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#F3F4F6">NSIS</text>
+      <text x="290" y="260" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="700" fill="#D1D5DB" text-anchor="end">4.3%</text>
+
+      <!-- Recessed Dark Track -->
+      <rect x="308" y="250" width="564" height="10" rx="5" fill="#090A0E" stroke="#1F2229" stroke-width="1"/>
+
+      <!-- Solid Neon Glow Fill Bar (Clean Smooth Sweep + Pulsing Outer Glow, ZERO Diagonal Stripes) -->
+      <rect x="308" y="250" width="0" height="10" rx="5" fill="url(#neonBarGrad_3)" filter="url(#neonGlow_3)">
+        <animate attributeName="width" from="0" to="24.1" dur="1.35s" begin="0.41s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/>
+        <animate attributeName="opacity" values="0.86;1;0.86" dur="2.4s" begin="0.41s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="308" cy="255" r="3.6" fill="#FFFFFF" opacity="0.88" filter="url(#neonGlow_3)">
+        <animate attributeName="cx" from="308" to="330.1" dur="1.35s" begin="0.41s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/>
+        <animate attributeName="opacity" values="0.95;0.45;0.95" dur="1.7s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g>
+      <circle cx="30" cy="294" r="4.8" fill="#3572A5" filter="url(#neonGlow_4)"/>
+      <text x="44" y="298" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#F3F4F6">Python</text>
+      <text x="290" y="298" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="700" fill="#60A5FA" text-anchor="end">2.1%</text>
+
+      <!-- Recessed Dark Track -->
+      <rect x="308" y="288" width="564" height="10" rx="5" fill="#090A0E" stroke="#1F2229" stroke-width="1"/>
+
+      <!-- Solid Neon Glow Fill Bar (Clean Smooth Sweep + Pulsing Outer Glow, ZERO Diagonal Stripes) -->
+      <rect x="308" y="288" width="0" height="10" rx="5" fill="url(#neonBarGrad_4)" filter="url(#neonGlow_4)">
+        <animate attributeName="width" from="0" to="11.7" dur="1.35s" begin="0.50s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/>
+        <animate attributeName="opacity" values="0.86;1;0.86" dur="2.4s" begin="0.50s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="308" cy="293" r="3.6" fill="#FFFFFF" opacity="0.88" filter="url(#neonGlow_4)">
+        <animate attributeName="cx" from="308" to="317.7" dur="1.35s" begin="0.50s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/>
+        <animate attributeName="opacity" values="0.95;0.45;0.95" dur="1.7s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g>
+      <circle cx="30" cy="332" r="4.8" fill="#7C5295" filter="url(#neonGlow_5)"/>
+      <text x="44" y="336" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#F3F4F6">CSS</text>
+      <text x="290" y="336" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="700" fill="#A78BFA" text-anchor="end">1.4%</text>
+
+      <!-- Recessed Dark Track -->
+      <rect x="308" y="326" width="564" height="10" rx="5" fill="#090A0E" stroke="#1F2229" stroke-width="1"/>
+
+      <!-- Solid Neon Glow Fill Bar (Clean Smooth Sweep + Pulsing Outer Glow, ZERO Diagonal Stripes) -->
+      <rect x="308" y="326" width="0" height="10" rx="5" fill="url(#neonBarGrad_5)" filter="url(#neonGlow_5)">
+        <animate attributeName="width" from="0" to="8.0" dur="1.35s" begin="0.59s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/>
+        <animate attributeName="opacity" values="0.86;1;0.86" dur="2.4s" begin="0.59s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="308" cy="331" r="3.6" fill="#FFFFFF" opacity="0.88" filter="url(#neonGlow_5)">
+        <animate attributeName="cx" from="308" to="314.0" dur="1.35s" begin="0.59s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/>
+        <animate attributeName="opacity" values="0.95;0.45;0.95" dur="1.7s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g>
+      <circle cx="30" cy="370" r="4.8" fill="#6E7681" filter="url(#neonGlow_6)"/>
+      <text x="44" y="374" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#F3F4F6">Other (15)</text>
+      <text x="290" y="374" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="700" fill="#9CA3AF" text-anchor="end">0.4%</text>
+
+      <!-- Recessed Dark Track -->
+      <rect x="308" y="364" width="564" height="10" rx="5" fill="#090A0E" stroke="#1F2229" stroke-width="1"/>
+
+      <!-- Solid Neon Glow Fill Bar (Clean Smooth Sweep + Pulsing Outer Glow, ZERO Diagonal Stripes) -->
+      <rect x="308" y="364" width="0" height="10" rx="5" fill="url(#neonBarGrad_6)" filter="url(#neonGlow_6)">
+        <animate attributeName="width" from="0" to="8.0" dur="1.35s" begin="0.68s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/>
+        <animate attributeName="opacity" values="0.86;1;0.86" dur="2.4s" begin="0.68s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="308" cy="369" r="3.6" fill="#FFFFFF" opacity="0.88" filter="url(#neonGlow_6)">
+        <animate attributeName="cx" from="308" to="314.0" dur="1.35s" begin="0.68s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/>
+        <animate attributeName="opacity" values="0.95;0.45;0.95" dur="1.7s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+  <line x1="24" y1="424" x2="876" y2="424" stroke="#1F2229" stroke-width="1"/>
+  <text x="24" y="445" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#5C6370">byte-weighted across 17 original repositories</text>
+  <text x="876" y="445" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#5C6370" text-anchor="end">19 manifests scanned · 34.5MB code · forks excluded</text>
+</svg>

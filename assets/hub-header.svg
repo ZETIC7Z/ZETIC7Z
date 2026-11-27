@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="414" viewBox="0 0 900 414" role="img" aria-label="ZETICUZ Operator Profile">
+  <defs>
+    <linearGradient id="hdrGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#14171D"/>
+      <stop offset="100%" stop-color="#121418"/>
+    </linearGradient>
+    <style>/*<![CDATA[*/
+      .dot-pulse { animation: dp 2.2s ease-in-out infinite; }
+      @keyframes dp { 0%,100% { opacity: 1; } 50% { opacity: 0.35; } }
+      rect, text { transition: all 0.2s ease; }
+      @media (prefers-reduced-motion: reduce) { .dot-pulse { animation: none; } }
+    /*]]>*/</style>
+  </defs>
+
+  <rect x="0.75" y="0.75" width="898.5" height="412.5" rx="12" fill="url(#hdrGrad)" stroke="#1F2229" stroke-width="1.5"/>
+
+  <!-- Top Hub Header Bar -->
+  <path d="M 1 12.75 Q 1 1 12.75 1 L 887.25 1 Q 899 1 899 12.75 L 899 45 L 1 45 Z" fill="#101216"/>
+  <line x1="1" y1="45" x2="899" y2="45" stroke="#1F2229" stroke-width="1"/>
+  <text x="24" y="28" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="12" font-weight="600" fill="#F3F4F6">Welcome to ZETICUZ's Hub</text>
+  <text x="192" y="28" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="12" fill="#5C6370">·</text>
+  <text x="204" y="28" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="12" fill="#8B929E">Explore open source contributions and projects</text>
+
+  <rect x="750" y="11" width="128" height="24" rx="7" fill="#15181E" stroke="#1F2229"/>
+  <circle class="dot-pulse" cx="765" cy="23" r="3" fill="#10B981"/>
+  <text x="776" y="27" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#8B929E">Live GitHub Sync</text>
+
+  <!-- Centered Brand Hero -->
+  <path d="M 358 76 L 349.5 87.5 H 356 L 355 96 L 364.5 84.5 H 358 Z" fill="#FBBF24"/>
+  <text x="460" y="94" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="7" fill="#F3F4F6" text-anchor="middle">ZETICUZ</text>
+  <text x="450" y="122" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="13.5" font-weight="500" fill="#E5E7EB" text-anchor="middle">AI-First Full-Stack Engineer · Founder of ZETICUZ · Based in the Philippines <tspan font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#8B929E">PH</tspan></text>
+
+  <!-- Status Badges Row -->
+  <g transform="translate(0, 142)">
+    <text x="148" y="16" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1" fill="#8B929E">WANTED LEVEL</text>
+    <rect x="234" y="0" width="136" height="24" rx="5" fill="#F59E0B" fill-opacity="0.14" stroke="#F59E0B" stroke-opacity="0.45"/>
+    <text x="302" y="16" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="700" fill="#FCD34D" text-anchor="middle">★★★★★ S-TIER DEV</text>
+
+    <text x="388" y="16" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1" fill="#8B929E">RANK</text>
+    <rect x="424" y="0" width="104" height="24" rx="5" fill="#38BDF8" fill-opacity="0.14" stroke="#38BDF8" stroke-opacity="0.45"/>
+    <text x="476" y="16" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="700" fill="#7DD3FC" text-anchor="middle">LEVEL 100 RP</text>
+
+    <text x="546" y="16" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1" fill="#8B929E">GITHUB</text>
+    <rect x="594" y="0" width="98" height="24" rx="5" fill="#10B981" fill-opacity="0.14" stroke="#10B981" stroke-opacity="0.45"/>
+    <text x="643" y="16" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="700" fill="#6EE7B7" text-anchor="middle">PRO STUDENT</text>
+  </g>
+
+  <!-- Specialty Pills Rows -->
+  
+      <g class="sp-pill sp-186-0">
+        <style>/*<![CDATA[*/
+          .sp-186-0:hover rect { stroke: #F59E0B; fill: #F59E0B; fill-opacity: 0.14; }
+          .sp-186-0:hover text { fill: #F59E0B; }
+        /*]]>*/</style>
+        <rect x="92" y="186" width="158" height="24" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="104" cy="198" r="3" fill="#F59E0B"/>
+        <text x="113" y="202" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Next.js 16 / React 19</text>
+      </g>
+      <g class="sp-pill sp-186-1">
+        <style>/*<![CDATA[*/
+          .sp-186-1:hover rect { stroke: #F3F4F6; fill: #F3F4F6; fill-opacity: 0.14; }
+          .sp-186-1:hover text { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="258" y="186" width="132" height="24" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="270" cy="198" r="3" fill="#F3F4F6"/>
+        <text x="279" y="202" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Three.js &amp; WebGL</text>
+      </g>
+      <g class="sp-pill sp-186-2">
+        <style>/*<![CDATA[*/
+          .sp-186-2:hover rect { stroke: #3178C6; fill: #3178C6; fill-opacity: 0.14; }
+          .sp-186-2:hover text { fill: #3178C6; }
+        /*]]>*/</style>
+        <rect x="398" y="186" width="96" height="24" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="410" cy="198" r="3" fill="#3178C6"/>
+        <text x="419" y="202" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">TypeScript</text>
+      </g>
+      <g class="sp-pill sp-186-3">
+        <style>/*<![CDATA[*/
+          .sp-186-3:hover rect { stroke: #F97316; fill: #F97316; fill-opacity: 0.14; }
+          .sp-186-3:hover text { fill: #F97316; }
+        /*]]>*/</style>
+        <rect x="502" y="186" width="162" height="24" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="514" cy="198" r="3" fill="#F97316"/>
+        <text x="523" y="202" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">HLS Streaming Engines</text>
+      </g>
+      <g class="sp-pill sp-186-4">
+        <style>/*<![CDATA[*/
+          .sp-186-4:hover rect { stroke: #22C55E; fill: #22C55E; fill-opacity: 0.14; }
+          .sp-186-4:hover text { fill: #22C55E; }
+        /*]]>*/</style>
+        <rect x="672" y="186" width="136" height="24" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="684" cy="198" r="3" fill="#22C55E"/>
+        <text x="693" y="202" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Node.js &amp; Express</text>
+      </g>
+  
+      <g class="sp-pill sp-218-0">
+        <style>/*<![CDATA[*/
+          .sp-218-0:hover rect { stroke: #3ECF8E; fill: #3ECF8E; fill-opacity: 0.14; }
+          .sp-218-0:hover text { fill: #3ECF8E; }
+        /*]]>*/</style>
+        <rect x="162" y="218" width="164" height="24" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="174" cy="230" r="3" fill="#3ECF8E"/>
+        <text x="183" y="234" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Supabase &amp; PostgreSQL</text>
+      </g>
+      <g class="sp-pill sp-218-1">
+        <style>/*<![CDATA[*/
+          .sp-218-1:hover rect { stroke: #3B82F6; fill: #3B82F6; fill-opacity: 0.14; }
+          .sp-218-1:hover text { fill: #3B82F6; }
+        /*]]>*/</style>
+        <rect x="334" y="218" width="132" height="24" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="346" cy="230" r="3" fill="#3B82F6"/>
+        <text x="355" y="234" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">FastAPI &amp; Python</text>
+      </g>
+      <g class="sp-pill sp-218-2">
+        <style>/*<![CDATA[*/
+          .sp-218-2:hover rect { stroke: #22C55E; fill: #22C55E; fill-opacity: 0.14; }
+          .sp-218-2:hover text { fill: #22C55E; }
+        /*]]>*/</style>
+        <rect x="474" y="218" width="94" height="24" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="486" cy="230" r="3" fill="#22C55E"/>
+        <text x="495" y="234" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">MongoDB</text>
+      </g>
+      <g class="sp-pill sp-218-3">
+        <style>/*<![CDATA[*/
+          .sp-218-3:hover rect { stroke: #A855F7; fill: #A855F7; fill-opacity: 0.14; }
+          .sp-218-3:hover text { fill: #A855F7; }
+        /*]]>*/</style>
+        <rect x="576" y="218" width="162" height="24" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="588" cy="230" r="3" fill="#A855F7"/>
+        <text x="597" y="234" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Autonomous AI Agents</text>
+      </g>
+
+  <!-- OPERATOR.PROFILE Sub-Panel -->
+  <line x1="1" y1="264" x2="899" y2="264" stroke="#1F2229" stroke-width="1"/>
+  <circle class="dot-pulse" cx="28" cy="291" r="3.5" fill="#10B981"/>
+  <text x="40" y="295" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.4" fill="#F3F4F6">OPERATOR.PROFILE</text>
+  <text x="180" y="295" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#5C6370">./whoami --extended</text>
+  <text x="876" y="295" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1" fill="#8B929E" text-anchor="end">PHILIPPINES (PH)</text>
+  <line x1="24" y1="308" x2="876" y2="308" stroke="#1F2229" stroke-width="1"/>
+
+  <text x="24" y="340" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#F3F4F6">AI-First Full-Stack Engineer · React, TypeScript, Node.js &amp; Streaming Architectures</text>
+
+  <rect x="24" y="360" width="184" height="26" rx="13" fill="#15181E" stroke="#38BDF8" stroke-opacity="0.38"/>
+  <text x="116" y="377" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#7DD3FC" text-anchor="middle">&gt; open to collaboration</text>
+
+  <rect x="220" y="360" width="168" height="26" rx="13" fill="#15181E" stroke="#10B981" stroke-opacity="0.38"/>
+  <text x="304" y="377" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#6EE7B7" text-anchor="middle">✓ production verified</text>
+</svg>

@@ -1,0 +1,540 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="607" viewBox="0 0 900 607" role="img" aria-label="Full-Stack Engineering Spectrum">
+  <defs>
+    <style>/*<![CDATA[*/
+      rect, text { transition: all 0.2s ease; }
+    /*]]>*/</style>
+  </defs>
+  <rect x="0.75" y="0.75" width="898.5" height="605.5" rx="12" fill="#121418" stroke="#1F2229" stroke-width="1.5"/>
+  
+    <circle cx="28" cy="76" r="3" fill="#8B929E"/>
+    <text x="40" y="80" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="12" font-weight="600" fill="#F3F4F6">Frontend</text>
+    
+      <g class="sp-item sp-item-0-0">
+        <style>/*<![CDATA[*/
+          .sp-item-0-0:hover rect { stroke: #F1E05A; fill: #F1E05A; fill-opacity: 0.14; }
+          .sp-item-0-0:hover .p-name { fill: #F1E05A; }
+          .sp-item-0-0:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="220" y="18" width="158" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="231" cy="29.5" r="3" fill="#F1E05A"/>
+        <text class="p-name" x="240" y="33.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">JavaScript</text>
+        <text class="p-cnt" x="368" y="33.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">17 repos</text>
+      </g>
+      <g class="sp-item sp-item-0-1">
+        <style>/*<![CDATA[*/
+          .sp-item-0-1:hover rect { stroke: #3B82F6; fill: #3B82F6; fill-opacity: 0.14; }
+          .sp-item-0-1:hover .p-name { fill: #3B82F6; }
+          .sp-item-0-1:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="384" y="18" width="118" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="395" cy="29.5" r="3" fill="#3B82F6"/>
+        <text class="p-name" x="404" y="33.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">CSS3</text>
+        <text class="p-cnt" x="492" y="33.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">16 repos</text>
+      </g>
+      <g class="sp-item sp-item-0-2">
+        <style>/*<![CDATA[*/
+          .sp-item-0-2:hover rect { stroke: #61DAFB; fill: #61DAFB; fill-opacity: 0.14; }
+          .sp-item-0-2:hover .p-name { fill: #61DAFB; }
+          .sp-item-0-2:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="508" y="18" width="125" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="519" cy="29.5" r="3" fill="#61DAFB"/>
+        <text class="p-name" x="528" y="33.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">React</text>
+        <text class="p-cnt" x="623" y="33.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">15 repos</text>
+      </g>
+      <g class="sp-item sp-item-0-3">
+        <style>/*<![CDATA[*/
+          .sp-item-0-3:hover rect { stroke: #3178C6; fill: #3178C6; fill-opacity: 0.14; }
+          .sp-item-0-3:hover .p-name { fill: #3178C6; }
+          .sp-item-0-3:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="639" y="18" width="158" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="650" cy="29.5" r="3" fill="#3178C6"/>
+        <text class="p-name" x="659" y="33.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">TypeScript</text>
+        <text class="p-cnt" x="787" y="33.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">14 repos</text>
+      </g>
+      <g class="sp-item sp-item-0-4">
+        <style>/*<![CDATA[*/
+          .sp-item-0-4:hover rect { stroke: #38BDF8; fill: #38BDF8; fill-opacity: 0.14; }
+          .sp-item-0-4:hover .p-name { fill: #38BDF8; }
+          .sp-item-0-4:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="220" y="47" width="172" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="231" cy="58.5" r="3" fill="#38BDF8"/>
+        <text class="p-name" x="240" y="62.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Tailwind CSS</text>
+        <text class="p-cnt" x="382" y="62.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">14 repos</text>
+      </g>
+      <g class="sp-item sp-item-0-5">
+        <style>/*<![CDATA[*/
+          .sp-item-0-5:hover rect { stroke: #A855F7; fill: #A855F7; fill-opacity: 0.14; }
+          .sp-item-0-5:hover .p-name { fill: #A855F7; }
+          .sp-item-0-5:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="398" y="47" width="118" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="409" cy="58.5" r="3" fill="#A855F7"/>
+        <text class="p-name" x="418" y="62.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Vite</text>
+        <text class="p-cnt" x="506" y="62.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">12 repos</text>
+      </g>
+      <g class="sp-item sp-item-0-6">
+        <style>/*<![CDATA[*/
+          .sp-item-0-6:hover rect { stroke: #F97316; fill: #F97316; fill-opacity: 0.14; }
+          .sp-item-0-6:hover .p-name { fill: #F97316; }
+          .sp-item-0-6:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="522" y="47" width="125" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="533" cy="58.5" r="3" fill="#F97316"/>
+        <text class="p-name" x="542" y="62.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">HTML5</text>
+        <text class="p-cnt" x="637" y="62.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">12 repos</text>
+      </g>
+      <g class="sp-item sp-item-0-7">
+        <style>/*<![CDATA[*/
+          .sp-item-0-7:hover rect { stroke: #FB923C; fill: #FB923C; fill-opacity: 0.14; }
+          .sp-item-0-7:hover .p-name { fill: #FB923C; }
+          .sp-item-0-7:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="653" y="47" width="131" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="664" cy="58.5" r="3" fill="#FB923C"/>
+        <text class="p-name" x="673" y="62.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Lucide</text>
+        <text class="p-cnt" x="774" y="62.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">12 repos</text>
+      </g>
+      <g class="sp-item sp-item-0-8">
+        <style>/*<![CDATA[*/
+          .sp-item-0-8:hover rect { stroke: #F43F5E; fill: #F43F5E; fill-opacity: 0.14; }
+          .sp-item-0-8:hover .p-name { fill: #F43F5E; }
+          .sp-item-0-8:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="220" y="76" width="166" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="231" cy="87.5" r="3" fill="#F43F5E"/>
+        <text class="p-name" x="240" y="91.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">React Router</text>
+        <text class="p-cnt" x="376" y="91.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">9 repos</text>
+      </g>
+      <g class="sp-item sp-item-0-9">
+        <style>/*<![CDATA[*/
+          .sp-item-0-9:hover rect { stroke: #F8FAFC; fill: #F8FAFC; fill-opacity: 0.14; }
+          .sp-item-0-9:hover .p-name { fill: #F8FAFC; }
+          .sp-item-0-9:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="392" y="76" width="139" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="403" cy="87.5" r="3" fill="#F8FAFC"/>
+        <text class="p-name" x="412" y="91.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Radix UI</text>
+        <text class="p-cnt" x="521" y="91.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">6 repos</text>
+      </g>
+      <g class="sp-item sp-item-0-10">
+        <style>/*<![CDATA[*/
+          .sp-item-0-10:hover rect { stroke: #FF4154; fill: #FF4154; fill-opacity: 0.14; }
+          .sp-item-0-10:hover .p-name { fill: #FF4154; }
+          .sp-item-0-10:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="537" y="76" width="179" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="548" cy="87.5" r="3" fill="#FF4154"/>
+        <text class="p-name" x="557" y="91.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">TanStack Query</text>
+        <text class="p-cnt" x="706" y="91.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">4 repos</text>
+      </g>
+      <g class="sp-item sp-item-0-11">
+        <style>/*<![CDATA[*/
+          .sp-item-0-11:hover rect { stroke: #FFFFFF; fill: #FFFFFF; fill-opacity: 0.14; }
+          .sp-item-0-11:hover .p-name { fill: #FFFFFF; }
+          .sp-item-0-11:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="722" y="76" width="132" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="733" cy="87.5" r="3" fill="#FFFFFF"/>
+        <text class="p-name" x="742" y="91.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Next.js</text>
+        <text class="p-cnt" x="844" y="91.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">3 repos</text>
+      </g>
+      <g class="sp-item sp-item-0-12">
+        <style>/*<![CDATA[*/
+          .sp-item-0-12:hover rect { stroke: #F59E0B; fill: #F59E0B; fill-opacity: 0.14; }
+          .sp-item-0-12:hover .p-name { fill: #F59E0B; }
+          .sp-item-0-12:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="220" y="105" width="132" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="231" cy="116.5" r="3" fill="#F59E0B"/>
+        <text class="p-name" x="240" y="120.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Zustand</text>
+        <text class="p-cnt" x="342" y="120.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">2 repos</text>
+      </g>
+    <line x1="1" y1="142" x2="899" y2="142" stroke="#1F2229" stroke-width="1"/>
+    <circle cx="28" cy="200" r="3" fill="#8B929E"/>
+    <text x="40" y="204" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="12" font-weight="600" fill="#F3F4F6">3D, Motion &amp; Data Viz</text>
+    
+      <g class="sp-item sp-item-1-0">
+        <style>/*<![CDATA[*/
+          .sp-item-1-0:hover rect { stroke: #E879F9; fill: #E879F9; fill-opacity: 0.14; }
+          .sp-item-1-0:hover .p-name { fill: #E879F9; }
+          .sp-item-1-0:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="220" y="156" width="178" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="231" cy="167.5" r="3" fill="#E879F9"/>
+        <text class="p-name" x="240" y="171.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Framer Motion</text>
+        <text class="p-cnt" x="388" y="171.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">11 repos</text>
+      </g>
+      <g class="sp-item sp-item-1-1">
+        <style>/*<![CDATA[*/
+          .sp-item-1-1:hover rect { stroke: #FFFFFF; fill: #FFFFFF; fill-opacity: 0.14; }
+          .sp-item-1-1:hover .p-name { fill: #FFFFFF; }
+          .sp-item-1-1:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="404" y="156" width="139" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="415" cy="167.5" r="3" fill="#FFFFFF"/>
+        <text class="p-name" x="424" y="171.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Three.js</text>
+        <text class="p-cnt" x="533" y="171.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">5 repos</text>
+      </g>
+      <g class="sp-item sp-item-1-2">
+        <style>/*<![CDATA[*/
+          .sp-item-1-2:hover rect { stroke: #EF4444; fill: #EF4444; fill-opacity: 0.14; }
+          .sp-item-1-2:hover .p-name { fill: #EF4444; }
+          .sp-item-1-2:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="549" y="156" width="119" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="560" cy="167.5" r="3" fill="#EF4444"/>
+        <text class="p-name" x="569" y="171.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">WebGL</text>
+        <text class="p-cnt" x="658" y="171.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">5 repos</text>
+      </g>
+      <g class="sp-item sp-item-1-3">
+        <style>/*<![CDATA[*/
+          .sp-item-1-3:hover rect { stroke: #22D3EE; fill: #22D3EE; fill-opacity: 0.14; }
+          .sp-item-1-3:hover .p-name { fill: #22D3EE; }
+          .sp-item-1-3:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="674" y="156" width="139" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="685" cy="167.5" r="3" fill="#22D3EE"/>
+        <text class="p-name" x="694" y="171.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Recharts</text>
+        <text class="p-cnt" x="803" y="171.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">5 repos</text>
+      </g>
+      <g class="sp-item sp-item-1-4">
+        <style>/*<![CDATA[*/
+          .sp-item-1-4:hover rect { stroke: #88CE02; fill: #88CE02; fill-opacity: 0.14; }
+          .sp-item-1-4:hover .p-name { fill: #88CE02; }
+          .sp-item-1-4:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="220" y="185" width="112" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="231" cy="196.5" r="3" fill="#88CE02"/>
+        <text class="p-name" x="240" y="200.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">GSAP</text>
+        <text class="p-cnt" x="322" y="200.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">4 repos</text>
+      </g>
+      <g class="sp-item sp-item-1-5">
+        <style>/*<![CDATA[*/
+          .sp-item-1-5:hover rect { stroke: #38BDF8; fill: #38BDF8; fill-opacity: 0.14; }
+          .sp-item-1-5:hover .p-name { fill: #38BDF8; }
+          .sp-item-1-5:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="338" y="185" width="199" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="349" cy="196.5" r="3" fill="#38BDF8"/>
+        <text class="p-name" x="358" y="200.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">React Three Fiber</text>
+        <text class="p-cnt" x="527" y="200.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">3 repos</text>
+      </g>
+      <g class="sp-item sp-item-1-6">
+        <style>/*<![CDATA[*/
+          .sp-item-1-6:hover rect { stroke: #F472B6; fill: #F472B6; fill-opacity: 0.14; }
+          .sp-item-1-6:hover .p-name { fill: #F472B6; }
+          .sp-item-1-6:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="543" y="185" width="119" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="554" cy="196.5" r="3" fill="#F472B6"/>
+        <text class="p-name" x="563" y="200.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Lenis</text>
+        <text class="p-cnt" x="652" y="200.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">3 repos</text>
+      </g>
+      <g class="sp-item sp-item-1-7">
+        <style>/*<![CDATA[*/
+          .sp-item-1-7:hover rect { stroke: #6366F1; fill: #6366F1; fill-opacity: 0.14; }
+          .sp-item-1-7:hover .p-name { fill: #6366F1; }
+          .sp-item-1-7:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="668" y="185" width="120" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="679" cy="196.5" r="3" fill="#6366F1"/>
+        <text class="p-name" x="688" y="200.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Swiper</text>
+        <text class="p-cnt" x="778" y="200.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">1 repo</text>
+      </g>
+      <g class="sp-item sp-item-1-8">
+        <style>/*<![CDATA[*/
+          .sp-item-1-8:hover rect { stroke: #22C55E; fill: #22C55E; fill-opacity: 0.14; }
+          .sp-item-1-8:hover .p-name { fill: #22C55E; }
+          .sp-item-1-8:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="220" y="214" width="126" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="231" cy="225.5" r="3" fill="#22C55E"/>
+        <text class="p-name" x="240" y="229.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Leaflet</text>
+        <text class="p-cnt" x="336" y="229.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">1 repo</text>
+      </g>
+    <line x1="1" y1="251" x2="899" y2="251" stroke="#1F2229" stroke-width="1"/>
+    <circle cx="28" cy="309" r="3" fill="#8B929E"/>
+    <text x="40" y="313" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="12" font-weight="600" fill="#F3F4F6">Backend, APIs &amp; AI</text>
+    
+      <g class="sp-item sp-item-2-0">
+        <style>/*<![CDATA[*/
+          .sp-item-2-0:hover rect { stroke: #22C55E; fill: #22C55E; fill-opacity: 0.14; }
+          .sp-item-2-0:hover .p-name { fill: #22C55E; }
+          .sp-item-2-0:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="220" y="265" width="132" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="231" cy="276.5" r="3" fill="#22C55E"/>
+        <text class="p-name" x="240" y="280.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Node.js</text>
+        <text class="p-cnt" x="342" y="280.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">8 repos</text>
+      </g>
+      <g class="sp-item sp-item-2-1">
+        <style>/*<![CDATA[*/
+          .sp-item-2-1:hover rect { stroke: #D946EF; fill: #D946EF; fill-opacity: 0.14; }
+          .sp-item-2-1:hover .p-name { fill: #D946EF; }
+          .sp-item-2-1:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="358" y="265" width="139" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="369" cy="276.5" r="3" fill="#D946EF"/>
+        <text class="p-name" x="378" y="280.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">JWT Auth</text>
+        <text class="p-cnt" x="487" y="280.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">6 repos</text>
+      </g>
+      <g class="sp-item sp-item-2-2">
+        <style>/*<![CDATA[*/
+          .sp-item-2-2:hover rect { stroke: #60A5FA; fill: #60A5FA; fill-opacity: 0.14; }
+          .sp-item-2-2:hover .p-name { fill: #60A5FA; }
+          .sp-item-2-2:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="503" y="265" width="105" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="514" cy="276.5" r="3" fill="#60A5FA"/>
+        <text class="p-name" x="523" y="280.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Zod</text>
+        <text class="p-cnt" x="598" y="280.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">5 repos</text>
+      </g>
+      <g class="sp-item sp-item-2-3">
+        <style>/*<![CDATA[*/
+          .sp-item-2-3:hover rect { stroke: #E2E8F0; fill: #E2E8F0; fill-opacity: 0.14; }
+          .sp-item-2-3:hover .p-name { fill: #E2E8F0; }
+          .sp-item-2-3:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="614" y="265" width="132" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="625" cy="276.5" r="3" fill="#E2E8F0"/>
+        <text class="p-name" x="634" y="280.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Express</text>
+        <text class="p-cnt" x="736" y="280.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">4 repos</text>
+      </g>
+      <g class="sp-item sp-item-2-4">
+        <style>/*<![CDATA[*/
+          .sp-item-2-4:hover rect { stroke: #60A5FA; fill: #60A5FA; fill-opacity: 0.14; }
+          .sp-item-2-4:hover .p-name { fill: #60A5FA; }
+          .sp-item-2-4:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="752" y="265" width="126" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="763" cy="276.5" r="3" fill="#60A5FA"/>
+        <text class="p-name" x="772" y="280.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Python</text>
+        <text class="p-cnt" x="868" y="280.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">3 repos</text>
+      </g>
+      <g class="sp-item sp-item-2-5">
+        <style>/*<![CDATA[*/
+          .sp-item-2-5:hover rect { stroke: #F59E0B; fill: #F59E0B; fill-opacity: 0.14; }
+          .sp-item-2-5:hover .p-name { fill: #F59E0B; }
+          .sp-item-2-5:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="220" y="294" width="132" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="231" cy="305.5" r="3" fill="#F59E0B"/>
+        <text class="p-name" x="240" y="309.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Cheerio</text>
+        <text class="p-cnt" x="342" y="309.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">2 repos</text>
+      </g>
+      <g class="sp-item sp-item-2-6">
+        <style>/*<![CDATA[*/
+          .sp-item-2-6:hover rect { stroke: #F97316; fill: #F97316; fill-opacity: 0.14; }
+          .sp-item-2-6:hover .p-name { fill: #F97316; }
+          .sp-item-2-6:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="358" y="294" width="126" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="369" cy="305.5" r="3" fill="#F97316"/>
+        <text class="p-name" x="378" y="309.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">HLS.js</text>
+        <text class="p-cnt" x="474" y="309.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">2 repos</text>
+      </g>
+      <g class="sp-item sp-item-2-7">
+        <style>/*<![CDATA[*/
+          .sp-item-2-7:hover rect { stroke: #F8FAFC; fill: #F8FAFC; fill-opacity: 0.14; }
+          .sp-item-2-7:hover .p-name { fill: #F8FAFC; }
+          .sp-item-2-7:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="490" y="294" width="140" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="501" cy="305.5" r="3" fill="#F8FAFC"/>
+        <text class="p-name" x="510" y="309.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Socket.IO</text>
+        <text class="p-cnt" x="620" y="309.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">1 repo</text>
+      </g>
+      <g class="sp-item sp-item-2-8">
+        <style>/*<![CDATA[*/
+          .sp-item-2-8:hover rect { stroke: #8B5CF6; fill: #8B5CF6; fill-opacity: 0.14; }
+          .sp-item-2-8:hover .p-name { fill: #8B5CF6; }
+          .sp-item-2-8:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="636" y="294" width="113" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="647" cy="305.5" r="3" fill="#8B5CF6"/>
+        <text class="p-name" x="656" y="309.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Axios</text>
+        <text class="p-cnt" x="739" y="309.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">1 repo</text>
+      </g>
+      <g class="sp-item sp-item-2-9">
+        <style>/*<![CDATA[*/
+          .sp-item-2-9:hover rect { stroke: #22C55E; fill: #22C55E; fill-opacity: 0.14; }
+          .sp-item-2-9:hover .p-name { fill: #22C55E; }
+          .sp-item-2-9:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="755" y="294" width="120" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="766" cy="305.5" r="3" fill="#22C55E"/>
+        <text class="p-name" x="775" y="309.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">FFmpeg</text>
+        <text class="p-cnt" x="865" y="309.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">1 repo</text>
+      </g>
+      <g class="sp-item sp-item-2-10">
+        <style>/*<![CDATA[*/
+          .sp-item-2-10:hover rect { stroke: #EF4444; fill: #EF4444; fill-opacity: 0.14; }
+          .sp-item-2-10:hover .p-name { fill: #EF4444; }
+          .sp-item-2-10:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="220" y="323" width="146" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="231" cy="334.5" r="3" fill="#EF4444"/>
+        <text class="p-name" x="240" y="338.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">PDF Engine</text>
+        <text class="p-cnt" x="356" y="338.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">1 repo</text>
+      </g>
+    <line x1="1" y1="360" x2="899" y2="360" stroke="#1F2229" stroke-width="1"/>
+    <circle cx="28" cy="403" r="3" fill="#8B929E"/>
+    <text x="40" y="407" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="12" font-weight="600" fill="#F3F4F6">Data, Cloud &amp; DevOps</text>
+    
+      <g class="sp-item sp-item-3-0">
+        <style>/*<![CDATA[*/
+          .sp-item-3-0:hover rect { stroke: #FFFFFF; fill: #FFFFFF; fill-opacity: 0.14; }
+          .sp-item-3-0:hover .p-name { fill: #FFFFFF; }
+          .sp-item-3-0:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="220" y="374" width="131" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="231" cy="385.5" r="3" fill="#FFFFFF"/>
+        <text class="p-name" x="240" y="389.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Vercel</text>
+        <text class="p-cnt" x="341" y="389.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">13 repos</text>
+      </g>
+      <g class="sp-item sp-item-3-1">
+        <style>/*<![CDATA[*/
+          .sp-item-3-1:hover rect { stroke: #22C55E; fill: #22C55E; fill-opacity: 0.14; }
+          .sp-item-3-1:hover .p-name { fill: #22C55E; }
+          .sp-item-3-1:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="357" y="374" width="132" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="368" cy="385.5" r="3" fill="#22C55E"/>
+        <text class="p-name" x="377" y="389.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">MongoDB</text>
+        <text class="p-cnt" x="479" y="389.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">4 repos</text>
+      </g>
+      <g class="sp-item sp-item-3-2">
+        <style>/*<![CDATA[*/
+          .sp-item-3-2:hover rect { stroke: #3ECF8E; fill: #3ECF8E; fill-opacity: 0.14; }
+          .sp-item-3-2:hover .p-name { fill: #3ECF8E; }
+          .sp-item-3-2:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="495" y="374" width="139" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="506" cy="385.5" r="3" fill="#3ECF8E"/>
+        <text class="p-name" x="515" y="389.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Supabase</text>
+        <text class="p-cnt" x="624" y="389.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">4 repos</text>
+      </g>
+      <g class="sp-item sp-item-3-3">
+        <style>/*<![CDATA[*/
+          .sp-item-3-3:hover rect { stroke: #60A5FA; fill: #60A5FA; fill-opacity: 0.14; }
+          .sp-item-3-3:hover .p-name { fill: #60A5FA; }
+          .sp-item-3-3:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="640" y="374" width="152" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="651" cy="385.5" r="3" fill="#60A5FA"/>
+        <text class="p-name" x="660" y="389.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">PostgreSQL</text>
+        <text class="p-cnt" x="782" y="389.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">3 repos</text>
+      </g>
+      <g class="sp-item sp-item-3-4">
+        <style>/*<![CDATA[*/
+          .sp-item-3-4:hover rect { stroke: #2496ED; fill: #2496ED; fill-opacity: 0.14; }
+          .sp-item-3-4:hover .p-name { fill: #2496ED; }
+          .sp-item-3-4:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="220" y="403" width="126" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="231" cy="414.5" r="3" fill="#2496ED"/>
+        <text class="p-name" x="240" y="418.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Docker</text>
+        <text class="p-cnt" x="336" y="418.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">3 repos</text>
+      </g>
+      <g class="sp-item sp-item-3-5">
+        <style>/*<![CDATA[*/
+          .sp-item-3-5:hover rect { stroke: #38BDF8; fill: #38BDF8; fill-opacity: 0.14; }
+          .sp-item-3-5:hover .p-name { fill: #38BDF8; }
+          .sp-item-3-5:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="352" y="403" width="179" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="363" cy="414.5" r="3" fill="#38BDF8"/>
+        <text class="p-name" x="372" y="418.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">GitHub Actions</text>
+        <text class="p-cnt" x="521" y="418.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">2 repos</text>
+      </g>
+    <line x1="1" y1="440" x2="899" y2="440" stroke="#1F2229" stroke-width="1"/>
+    <circle cx="28" cy="469" r="3" fill="#8B929E"/>
+    <text x="40" y="473" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="12" font-weight="600" fill="#F3F4F6">Mobile, Desktop &amp; PWA</text>
+    
+      <g class="sp-item sp-item-4-0">
+        <style>/*<![CDATA[*/
+          .sp-item-4-0:hover rect { stroke: #A855F7; fill: #A855F7; fill-opacity: 0.14; }
+          .sp-item-4-0:hover .p-name { fill: #A855F7; }
+          .sp-item-4-0:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="220" y="454" width="105" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="231" cy="465.5" r="3" fill="#A855F7"/>
+        <text class="p-name" x="240" y="469.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">PWA</text>
+        <text class="p-cnt" x="315" y="469.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">7 repos</text>
+      </g>
+      <g class="sp-item sp-item-4-1">
+        <style>/*<![CDATA[*/
+          .sp-item-4-1:hover rect { stroke: #3DDC84; fill: #3DDC84; fill-opacity: 0.14; }
+          .sp-item-4-1:hover .p-name { fill: #3DDC84; }
+          .sp-item-4-1:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="331" y="454" width="132" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="342" cy="465.5" r="3" fill="#3DDC84"/>
+        <text class="p-name" x="351" y="469.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Android</text>
+        <text class="p-cnt" x="453" y="469.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">3 repos</text>
+      </g>
+    <line x1="1" y1="491" x2="899" y2="491" stroke="#1F2229" stroke-width="1"/>
+    <circle cx="28" cy="534" r="3" fill="#8B929E"/>
+    <text x="40" y="538" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="12" font-weight="600" fill="#F3F4F6">Testing &amp; Tooling</text>
+    
+      <g class="sp-item sp-item-5-0">
+        <style>/*<![CDATA[*/
+          .sp-item-5-0:hover rect { stroke: #8B5CF6; fill: #8B5CF6; fill-opacity: 0.14; }
+          .sp-item-5-0:hover .p-name { fill: #8B5CF6; }
+          .sp-item-5-0:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="220" y="505" width="131" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="231" cy="516.5" r="3" fill="#8B5CF6"/>
+        <text class="p-name" x="240" y="520.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">ESLint</text>
+        <text class="p-cnt" x="341" y="520.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">11 repos</text>
+      </g>
+      <g class="sp-item sp-item-5-1">
+        <style>/*<![CDATA[*/
+          .sp-item-5-1:hover rect { stroke: #FB923C; fill: #FB923C; fill-opacity: 0.14; }
+          .sp-item-5-1:hover .p-name { fill: #FB923C; }
+          .sp-item-5-1:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="357" y="505" width="138" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="368" cy="516.5" r="3" fill="#FB923C"/>
+        <text class="p-name" x="377" y="520.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">PostCSS</text>
+        <text class="p-cnt" x="485" y="520.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">10 repos</text>
+      </g>
+      <g class="sp-item sp-item-5-2">
+        <style>/*<![CDATA[*/
+          .sp-item-5-2:hover rect { stroke: #2EAD33; fill: #2EAD33; fill-opacity: 0.14; }
+          .sp-item-5-2:hover .p-name { fill: #2EAD33; }
+          .sp-item-5-2:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="501" y="505" width="152" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="512" cy="516.5" r="3" fill="#2EAD33"/>
+        <text class="p-name" x="521" y="520.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Playwright</text>
+        <text class="p-cnt" x="643" y="520.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">8 repos</text>
+      </g>
+      <g class="sp-item sp-item-5-3">
+        <style>/*<![CDATA[*/
+          .sp-item-5-3:hover rect { stroke: #84CC16; fill: #84CC16; fill-opacity: 0.14; }
+          .sp-item-5-3:hover .p-name { fill: #84CC16; }
+          .sp-item-5-3:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="659" y="505" width="126" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="670" cy="516.5" r="3" fill="#84CC16"/>
+        <text class="p-name" x="679" y="520.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Vitest</text>
+        <text class="p-cnt" x="775" y="520.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">5 repos</text>
+      </g>
+      <g class="sp-item sp-item-5-4">
+        <style>/*<![CDATA[*/
+          .sp-item-5-4:hover rect { stroke: #F87171; fill: #F87171; fill-opacity: 0.14; }
+          .sp-item-5-4:hover .p-name { fill: #F87171; }
+          .sp-item-5-4:hover .p-cnt { fill: #F3F4F6; }
+        /*]]>*/</style>
+        <rect x="220" y="534" width="186" height="23" rx="6" fill="#15181E" stroke="#232732" stroke-width="1"/>
+        <circle cx="231" cy="545.5" r="3" fill="#F87171"/>
+        <text class="p-name" x="240" y="549.5" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="11" font-weight="500" fill="#E5E7EB">Testing Library</text>
+        <text class="p-cnt" x="396" y="549.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B929E" text-anchor="end">3 repos</text>
+      </g>
+    <line x1="1" y1="571" x2="899" y2="571" stroke="#1F2229" stroke-width="1"/>
+  <text x="450" y="597" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#5C6370" text-anchor="middle">Auto-detected from 284 dependency signals · Hover any technology to illuminate brand color</text>
+</svg>

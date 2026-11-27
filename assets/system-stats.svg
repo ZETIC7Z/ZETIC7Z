@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="184" viewBox="0 0 900 184" role="img" aria-label="GitHub System Analytics">
+  <defs>
+    <style>/*<![CDATA[*/
+      rect, text { transition: all 0.22s ease; }
+    /*]]>*/</style>
+  </defs>
+  <rect x="0.75" y="0.75" width="898.5" height="182.5" rx="12" fill="#121418" stroke="#1F2229" stroke-width="1.5"/>
+  <circle cx="29" cy="30" r="3.5" fill="#F3F4F6"/>
+  <text x="41" y="34" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" letter-spacing="1.2" fill="#F3F4F6">SYSTEM.STATS</text>
+  <text x="150" y="34" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#5C6370">./github --live</text>
+  <text x="876" y="34" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#5C6370" text-anchor="end">synced Nov 27, 2026</text>
+  <line x1="24" y1="46" x2="876" y2="46" stroke="#1F2229" stroke-width="1"/>
+  
+    <g class="sys sys-pub">
+      <style>/*<![CDATA[*/
+        .sys-pub:hover .sys-bg { stroke: #38BDF8; fill: #15181E; }
+        .sys-pub:hover .sys-val { fill: #38BDF8; }
+      /*]]>*/</style>
+      <rect class="sys-bg" x="24" y="58" width="132" height="102" rx="10" fill="#15181E" stroke="#1F2229" stroke-width="1.2"/>
+      <rect x="25" y="58" width="130" height="3" rx="1.5" fill="#38BDF8" fill-opacity="0.72"/>
+      <text class="sys-val" x="90" y="114" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" font-weight="700" fill="#F3F4F6" text-anchor="middle">48</text>
+      <text x="90" y="139" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" letter-spacing="0.8" fill="#8B929E" text-anchor="middle">PUBLIC REPOS</text>
+    </g>
+    <g class="sys sys-orig">
+      <style>/*<![CDATA[*/
+        .sys-orig:hover .sys-bg { stroke: #A855F7; fill: #15181E; }
+        .sys-orig:hover .sys-val { fill: #A855F7; }
+      /*]]>*/</style>
+      <rect class="sys-bg" x="168" y="58" width="132" height="102" rx="10" fill="#15181E" stroke="#1F2229" stroke-width="1.2"/>
+      <rect x="169" y="58" width="130" height="3" rx="1.5" fill="#A855F7" fill-opacity="0.72"/>
+      <text class="sys-val" x="234" y="114" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" font-weight="700" fill="#F3F4F6" text-anchor="middle">17</text>
+      <text x="234" y="139" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" letter-spacing="0.8" fill="#8B929E" text-anchor="middle">ORIGINAL PROJECTS</text>
+    </g>
+    <g class="sys sys-contrib">
+      <style>/*<![CDATA[*/
+        .sys-contrib:hover .sys-bg { stroke: #10B981; fill: #15181E; }
+        .sys-contrib:hover .sys-val { fill: #10B981; }
+      /*]]>*/</style>
+      <rect class="sys-bg" x="312" y="58" width="132" height="102" rx="10" fill="#15181E" stroke="#1F2229" stroke-width="1.2"/>
+      <rect x="313" y="58" width="130" height="3" rx="1.5" fill="#10B981" fill-opacity="0.72"/>
+      <text class="sys-val" x="378" y="114" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" font-weight="700" fill="#F3F4F6" text-anchor="middle">2,431</text>
+      <text x="378" y="139" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" letter-spacing="0.8" fill="#8B929E" text-anchor="middle">CONTRIBUTIONS · 1Y</text>
+    </g>
+    <g class="sys sys-commit">
+      <style>/*<![CDATA[*/
+        .sys-commit:hover .sys-bg { stroke: #F59E0B; fill: #15181E; }
+        .sys-commit:hover .sys-val { fill: #F59E0B; }
+      /*]]>*/</style>
+      <rect class="sys-bg" x="456" y="58" width="132" height="102" rx="10" fill="#15181E" stroke="#1F2229" stroke-width="1.2"/>
+      <rect x="457" y="58" width="130" height="3" rx="1.5" fill="#F59E0B" fill-opacity="0.72"/>
+      <text class="sys-val" x="522" y="114" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" font-weight="700" fill="#F3F4F6" text-anchor="middle">2,377</text>
+      <text x="522" y="139" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" letter-spacing="0.8" fill="#8B929E" text-anchor="middle">COMMITS · 1Y</text>
+    </g>
+    <g class="sys sys-tech">
+      <style>/*<![CDATA[*/
+        .sys-tech:hover .sys-bg { stroke: #EC4899; fill: #15181E; }
+        .sys-tech:hover .sys-val { fill: #EC4899; }
+      /*]]>*/</style>
+      <rect class="sys-bg" x="600" y="58" width="132" height="102" rx="10" fill="#15181E" stroke="#1F2229" stroke-width="1.2"/>
+      <rect x="601" y="58" width="130" height="3" rx="1.5" fill="#EC4899" fill-opacity="0.72"/>
+      <text class="sys-val" x="666" y="114" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" font-weight="700" fill="#F3F4F6" text-anchor="middle">46</text>
+      <text x="666" y="139" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" letter-spacing="0.8" fill="#8B929E" text-anchor="middle">TECHNOLOGIES</text>
+    </g>
+    <g class="sys sys-stars">
+      <style>/*<![CDATA[*/
+        .sys-stars:hover .sys-bg { stroke: #EAB308; fill: #15181E; }
+        .sys-stars:hover .sys-val { fill: #EAB308; }
+      /*]]>*/</style>
+      <rect class="sys-bg" x="744" y="58" width="132" height="102" rx="10" fill="#15181E" stroke="#1F2229" stroke-width="1.2"/>
+      <rect x="745" y="58" width="130" height="3" rx="1.5" fill="#EAB308" fill-opacity="0.72"/>
+      <text class="sys-val" x="810" y="114" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" font-weight="700" fill="#F3F4F6" text-anchor="middle">0</text>
+      <text x="810" y="139" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" letter-spacing="0.8" fill="#8B929E" text-anchor="middle">STARS EARNED</text>
+    </g>
+</svg>
