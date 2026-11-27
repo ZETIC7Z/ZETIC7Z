@@ -444,8 +444,8 @@ function renderKpiTelemetry(m, calendar) {
   // Contributions section below KPI cards (starts y = 118)
   const shortContrib = m.contributions >= 1000 ? `${(m.contributions / 1000).toFixed(1)}k` : String(m.contributions);
   const weeks = (calendar?.weeks || []).slice(-52);
-  const cellSize = 11.4, cellGap = 3.5;
-  const gridLeft = 56, gridTop = 178;
+  const cellSize = 12.1, cellGap = 3.5;
+  const gridLeft = 58, gridTop = 176;
   const colors = ['#161920', '#222B3A', '#3B4F70', '#6D94CE', '#DCE8FA'];
 
   function levelForCount(n) {
@@ -502,9 +502,9 @@ function renderKpiTelemetry(m, calendar) {
   <!-- Heatmap Footer -->
   <line x1="18" y1="286" x2="${W - 18}" y2="286" stroke="#1F2229" stroke-width="1"/>
   <text x="20" y="303" ${MONO} font-size="10.5" fill="#5C6370">Last 52 weeks of activity</text>
-  <text x="${W - 115}" y="303" ${MONO} font-size="10.5" fill="#5C6370" text-anchor="end">Less</text>
-  ${colors.map((c, idx) => `<rect x="${W - 107 + idx * 14}" y="294" width="10" height="10" rx="2" fill="${c}" stroke="rgba(255,255,255,0.06)"/>`).join('')}
-  <text x="${W - 18}" y="303" ${MONO} font-size="10.5" fill="#5C6370" text-anchor="end">More</text>
+  <text x="${W - 134}" y="303" ${MONO} font-size="10.5" fill="#5C6370" text-anchor="end">Less</text>
+  ${colors.map((c, idx) => `<rect x="${W - 126 + idx * 14}" y="294" width="10" height="10" rx="2" fill="${c}" stroke="rgba(255,255,255,0.06)"/>`).join('')}
+  <text x="${W - 20}" y="303" ${MONO} font-size="10.5" fill="#5C6370" text-anchor="end">More</text>
 </svg>`;
 }
 
