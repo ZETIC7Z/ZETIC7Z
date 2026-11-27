@@ -257,10 +257,14 @@ const fmtNum = (n) => n.toLocaleString('en-US');
 
 function badge(tech, message) {
   const t = CATALOG.find((c) => c.name === tech);
-  const label = shieldText(tech);
-  const logo = `&logo=${t.logo}&logoColor=${t.logoColor || 'white'}`;
-  if (message) return `<img src="https://img.shields.io/badge/${label}-${shieldText(message)}-${t.color}?style=flat-square${logo}&labelColor=${t.color}" alt="${esc(tech)}" />`;
-  return `<img src="https://img.shields.io/badge/${label}-${t.color}?style=flat-square${logo}" alt="${esc(tech)}" />`;
+  if (!t) return '';
+  const label = encodeURIComponent(tech);
+  const logo = `&logo=${encodeURIComponent(t.logo)}&logoColor=${encodeURIComponent(t.logoColor || 'white')}`;
+  if (message) {
+    const msg = encodeURIComponent(message);
+    return `<img src="https://img.shields.io/static/v1?label=${label}&message=${msg}&color=${t.color}&style=flat-square${logo}&labelColor=${t.color}" alt="${esc(tech)}" />`;
+  }
+  return `<img src="https://img.shields.io/static/v1?label=${label}&message=&color=${t.color}&style=flat-square${logo}" alt="${esc(tech)}" />`;
 }
 
 function wrap(text, max, lines) {

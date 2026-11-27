@@ -1,10 +1,10 @@
 {
-  "syncedAt": "2026-11-26T23:41:32.614Z",
+  "syncedAt": "2026-11-27T02:24:05.962Z",
   "metrics": {
-    "publicRepos": 64,
+    "publicRepos": 48,
     "originals": 17,
-    "contributions": 2423,
-    "commits": 2351,
+    "contributions": 2403,
+    "commits": 2349,
     "stars": 0,
     "followers": 2,
     "techCount": 42,
@@ -14,37 +14,37 @@
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "pct": 41.72788835279648
+      "pct": 41.7310297063015
     },
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "pct": 31.32007318306923
+      "pct": 31.318151051181086
     },
     {
       "name": "HTML",
       "color": "#e34c26",
-      "pct": 18.836731527328382
+      "pct": 18.836010347020483
     },
     {
       "name": "NSIS",
       "color": "#8b949e",
-      "pct": 4.271899895469325
+      "pct": 4.271637726381659
     },
     {
       "name": "Python",
       "color": "#3572A5",
-      "pct": 2.070742937801349
+      "pct": 2.0706158550512663
     },
     {
       "name": "CSS",
       "color": "#663399",
-      "pct": 1.3937433044820629
+      "pct": 1.3936577696101047
     },
     {
       "name": "Other (15)",
       "color": "#6e7681",
-      "pct": 0.3789207990531706
+      "pct": 0.3788975444539017
     }
   ],
   "technologies": {
@@ -94,7 +94,7 @@
   "repositories": [
     {
       "name": "el-farm-cafe-and-restaurant",
-      "pushedAt": "2026-11-26T21:46:38Z",
+      "pushedAt": "2026-11-27T00:07:00Z",
       "language": "JavaScript",
       "tech": [
         "React",

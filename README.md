@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>⚡ Z E T I C U Z</h1>
-  <p><strong>AI-First Full-Stack Engineer · Founder of TECHNOLOHIYA · Based in the Philippines 🇵🇭</strong></p>
+  <p><strong>AI-First Full-Stack Engineer · Founder of ZETICUZ · Based in the Philippines 🇵🇭</strong></p>
 
   <p>
     <img src="https://img.shields.io/badge/WANTED%20LEVEL-★★★★★%20S--TIER%20DEV-F5B800?style=for-the-badge&labelColor=0D1117" alt="Wanted Level" />
@@ -49,58 +49,58 @@
 <!-- TECH-STACK:START -->
 <table width="100%">
 <tr><td width="24%" valign="middle"><b>🎨 Frontend</b></td><td>
-  <img src="https://img.shields.io/badge/JavaScript-17%20repos-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&labelColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/CSS3-16%20repos-1572B6?style=flat-square&logo=css&logoColor=white&labelColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-15%20repos-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=20232A" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-14%20repos-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-14%20repos-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=06B6D4" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-12%20repos-646CFF?style=flat-square&logo=vite&logoColor=white&labelColor=646CFF" alt="Vite" />
-  <img src="https://img.shields.io/badge/HTML5-12%20repos-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/React%20Router-9%20repos-CA4245?style=flat-square&logo=reactrouter&logoColor=white&labelColor=CA4245" alt="React Router" />
-  <img src="https://img.shields.io/badge/Radix%20UI-6%20repos-161618?style=flat-square&logo=radixui&logoColor=white&labelColor=161618" alt="Radix UI" />
-  <img src="https://img.shields.io/badge/TanStack%20Query-4%20repos-FF4154?style=flat-square&logo=reactquery&logoColor=white&labelColor=FF4154" alt="TanStack Query" />
-  <img src="https://img.shields.io/badge/Next.js-3%20repos-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=000000" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Zustand-2%20repos-443E38?style=flat-square&logo=react&logoColor=white&labelColor=443E38" alt="Zustand" />
+  <img src="https://img.shields.io/static/v1?label=JavaScript&message=17%20repos&color=F7DF1E&style=flat-square&logo=javascript&logoColor=000000&labelColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/static/v1?label=CSS3&message=16%20repos&color=1572B6&style=flat-square&logo=css&logoColor=white&labelColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/static/v1?label=React&message=15%20repos&color=20232A&style=flat-square&logo=react&logoColor=61DAFB&labelColor=20232A" alt="React" />
+  <img src="https://img.shields.io/static/v1?label=TypeScript&message=14%20repos&color=3178C6&style=flat-square&logo=typescript&logoColor=white&labelColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/static/v1?label=Tailwind%20CSS&message=14%20repos&color=06B6D4&style=flat-square&logo=tailwindcss&logoColor=white&labelColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/static/v1?label=Vite&message=12%20repos&color=646CFF&style=flat-square&logo=vite&logoColor=white&labelColor=646CFF" alt="Vite" />
+  <img src="https://img.shields.io/static/v1?label=HTML5&message=12%20repos&color=E34F26&style=flat-square&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/static/v1?label=React%20Router&message=9%20repos&color=CA4245&style=flat-square&logo=reactrouter&logoColor=white&labelColor=CA4245" alt="React Router" />
+  <img src="https://img.shields.io/static/v1?label=Radix%20UI&message=6%20repos&color=161618&style=flat-square&logo=radixui&logoColor=white&labelColor=161618" alt="Radix UI" />
+  <img src="https://img.shields.io/static/v1?label=TanStack%20Query&message=4%20repos&color=FF4154&style=flat-square&logo=reactquery&logoColor=white&labelColor=FF4154" alt="TanStack Query" />
+  <img src="https://img.shields.io/static/v1?label=Next.js&message=3%20repos&color=000000&style=flat-square&logo=nextdotjs&logoColor=white&labelColor=000000" alt="Next.js" />
+  <img src="https://img.shields.io/static/v1?label=Zustand&message=2%20repos&color=443E38&style=flat-square&logo=react&logoColor=white&labelColor=443E38" alt="Zustand" />
 </td></tr>
 <tr><td width="24%" valign="middle"><b>🕹️ 3D, Motion &amp; Data Viz</b></td><td>
-  <img src="https://img.shields.io/badge/Framer%20Motion-11%20repos-0055FF?style=flat-square&logo=framer&logoColor=white&labelColor=0055FF" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/Three.js-5%20repos-000000?style=flat-square&logo=threedotjs&logoColor=white&labelColor=000000" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Recharts-5%20repos-22B5BF?style=flat-square&logo=chartdotjs&logoColor=white&labelColor=22B5BF" alt="Recharts" />
-  <img src="https://img.shields.io/badge/GSAP-4%20repos-0AE448?style=flat-square&logo=greensock&logoColor=000000&labelColor=0AE448" alt="GSAP" />
-  <img src="https://img.shields.io/badge/React%20Three%20Fiber-3%20repos-000000?style=flat-square&logo=threedotjs&logoColor=white&labelColor=000000" alt="React Three Fiber" />
-  <img src="https://img.shields.io/badge/Lenis-3%20repos-FF98A2?style=flat-square&logo=smoothcomp&logoColor=white&labelColor=FF98A2" alt="Lenis" />
-  <img src="https://img.shields.io/badge/Leaflet-1%20repo-199900?style=flat-square&logo=leaflet&logoColor=white&labelColor=199900" alt="Leaflet" />
+  <img src="https://img.shields.io/static/v1?label=Framer%20Motion&message=11%20repos&color=0055FF&style=flat-square&logo=framer&logoColor=white&labelColor=0055FF" alt="Framer Motion" />
+  <img src="https://img.shields.io/static/v1?label=Three.js&message=5%20repos&color=000000&style=flat-square&logo=threedotjs&logoColor=white&labelColor=000000" alt="Three.js" />
+  <img src="https://img.shields.io/static/v1?label=Recharts&message=5%20repos&color=22B5BF&style=flat-square&logo=chartdotjs&logoColor=white&labelColor=22B5BF" alt="Recharts" />
+  <img src="https://img.shields.io/static/v1?label=GSAP&message=4%20repos&color=0AE448&style=flat-square&logo=greensock&logoColor=000000&labelColor=0AE448" alt="GSAP" />
+  <img src="https://img.shields.io/static/v1?label=React%20Three%20Fiber&message=3%20repos&color=000000&style=flat-square&logo=threedotjs&logoColor=white&labelColor=000000" alt="React Three Fiber" />
+  <img src="https://img.shields.io/static/v1?label=Lenis&message=3%20repos&color=FF98A2&style=flat-square&logo=smoothcomp&logoColor=white&labelColor=FF98A2" alt="Lenis" />
+  <img src="https://img.shields.io/static/v1?label=Leaflet&message=1%20repo&color=199900&style=flat-square&logo=leaflet&logoColor=white&labelColor=199900" alt="Leaflet" />
 </td></tr>
 <tr><td width="24%" valign="middle"><b>⚙️ Backend, APIs &amp; AI</b></td><td>
-  <img src="https://img.shields.io/badge/Node.js-8%20repos-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/JWT%20Auth-6%20repos-000000?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=000000" alt="JWT Auth" />
-  <img src="https://img.shields.io/badge/Zod-5%20repos-3E67B1?style=flat-square&logo=zod&logoColor=white&labelColor=3E67B1" alt="Zod" />
-  <img src="https://img.shields.io/badge/Express-4%20repos-000000?style=flat-square&logo=express&logoColor=white&labelColor=000000" alt="Express" />
-  <img src="https://img.shields.io/badge/Python-3%20repos-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Cheerio-2%20repos-E88C1F?style=flat-square&logo=cheerio&logoColor=white&labelColor=E88C1F" alt="Cheerio" />
-  <img src="https://img.shields.io/badge/HLS.js-2%20repos-FF5500?style=flat-square&logo=videodotjs&logoColor=white&labelColor=FF5500" alt="HLS.js" />
-  <img src="https://img.shields.io/badge/Socket.IO-1%20repo-010101?style=flat-square&logo=socketdotio&logoColor=white&labelColor=010101" alt="Socket.IO" />
-  <img src="https://img.shields.io/badge/Axios-1%20repo-5A29E4?style=flat-square&logo=axios&logoColor=white&labelColor=5A29E4" alt="Axios" />
-  <img src="https://img.shields.io/badge/FFmpeg-1%20repo-007808?style=flat-square&logo=ffmpeg&logoColor=white&labelColor=007808" alt="FFmpeg" />
-  <img src="https://img.shields.io/badge/PDF%20Engine-1%20repo-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white&labelColor=EC1C24" alt="PDF Engine" />
+  <img src="https://img.shields.io/static/v1?label=Node.js&message=8%20repos&color=339933&style=flat-square&logo=nodedotjs&logoColor=white&labelColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/static/v1?label=JWT%20Auth&message=6%20repos&color=000000&style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=000000" alt="JWT Auth" />
+  <img src="https://img.shields.io/static/v1?label=Zod&message=5%20repos&color=3E67B1&style=flat-square&logo=zod&logoColor=white&labelColor=3E67B1" alt="Zod" />
+  <img src="https://img.shields.io/static/v1?label=Express&message=4%20repos&color=000000&style=flat-square&logo=express&logoColor=white&labelColor=000000" alt="Express" />
+  <img src="https://img.shields.io/static/v1?label=Python&message=3%20repos&color=3776AB&style=flat-square&logo=python&logoColor=white&labelColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/static/v1?label=Cheerio&message=2%20repos&color=E88C1F&style=flat-square&logo=cheerio&logoColor=white&labelColor=E88C1F" alt="Cheerio" />
+  <img src="https://img.shields.io/static/v1?label=HLS.js&message=2%20repos&color=FF5500&style=flat-square&logo=videodotjs&logoColor=white&labelColor=FF5500" alt="HLS.js" />
+  <img src="https://img.shields.io/static/v1?label=Socket.IO&message=1%20repo&color=010101&style=flat-square&logo=socketdotio&logoColor=white&labelColor=010101" alt="Socket.IO" />
+  <img src="https://img.shields.io/static/v1?label=Axios&message=1%20repo&color=5A29E4&style=flat-square&logo=axios&logoColor=white&labelColor=5A29E4" alt="Axios" />
+  <img src="https://img.shields.io/static/v1?label=FFmpeg&message=1%20repo&color=007808&style=flat-square&logo=ffmpeg&logoColor=white&labelColor=007808" alt="FFmpeg" />
+  <img src="https://img.shields.io/static/v1?label=PDF%20Engine&message=1%20repo&color=EC1C24&style=flat-square&logo=adobeacrobatreader&logoColor=white&labelColor=EC1C24" alt="PDF Engine" />
 </td></tr>
 <tr><td width="24%" valign="middle"><b>☁️ Data, Cloud &amp; DevOps</b></td><td>
-  <img src="https://img.shields.io/badge/Vercel-13%20repos-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=000000" alt="Vercel" />
-  <img src="https://img.shields.io/badge/MongoDB-4%20repos-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Supabase-4%20repos-3FCF8E?style=flat-square&logo=supabase&logoColor=white&labelColor=3FCF8E" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-3%20repos-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-3%20repos-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2%20repos-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=2088FF" alt="GitHub Actions" />
+  <img src="https://img.shields.io/static/v1?label=Vercel&message=13%20repos&color=000000&style=flat-square&logo=vercel&logoColor=white&labelColor=000000" alt="Vercel" />
+  <img src="https://img.shields.io/static/v1?label=MongoDB&message=4%20repos&color=47A248&style=flat-square&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/static/v1?label=Supabase&message=4%20repos&color=3FCF8E&style=flat-square&logo=supabase&logoColor=white&labelColor=3FCF8E" alt="Supabase" />
+  <img src="https://img.shields.io/static/v1?label=PostgreSQL&message=3%20repos&color=4169E1&style=flat-square&logo=postgresql&logoColor=white&labelColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/static/v1?label=Docker&message=3%20repos&color=2496ED&style=flat-square&logo=docker&logoColor=white&labelColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/static/v1?label=GitHub%20Actions&message=2%20repos&color=2088FF&style=flat-square&logo=githubactions&logoColor=white&labelColor=2088FF" alt="GitHub Actions" />
 </td></tr>
 <tr><td width="24%" valign="middle"><b>📱 Mobile, Desktop &amp; PWA</b></td><td>
-  <img src="https://img.shields.io/badge/PWA-7%20repos-5A0FC8?style=flat-square&logo=pwa&logoColor=white&labelColor=5A0FC8" alt="PWA" />
+  <img src="https://img.shields.io/static/v1?label=PWA&message=7%20repos&color=5A0FC8&style=flat-square&logo=pwa&logoColor=white&labelColor=5A0FC8" alt="PWA" />
 </td></tr>
 <tr><td width="24%" valign="middle"><b>🧪 Testing &amp; Tooling</b></td><td>
-  <img src="https://img.shields.io/badge/ESLint-11%20repos-4B32C3?style=flat-square&logo=eslint&logoColor=white&labelColor=4B32C3" alt="ESLint" />
-  <img src="https://img.shields.io/badge/PostCSS-10%20repos-DD3A0A?style=flat-square&logo=postcss&logoColor=white&labelColor=DD3A0A" alt="PostCSS" />
-  <img src="https://img.shields.io/badge/Playwright-8%20repos-2EAD33?style=flat-square&logo=playwright&logoColor=white&labelColor=2EAD33" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Vitest-5%20repos-6E9F18?style=flat-square&logo=vitest&logoColor=white&labelColor=6E9F18" alt="Vitest" />
-  <img src="https://img.shields.io/badge/Testing%20Library-3%20repos-E33332?style=flat-square&logo=testinglibrary&logoColor=white&labelColor=E33332" alt="Testing Library" />
+  <img src="https://img.shields.io/static/v1?label=ESLint&message=11%20repos&color=4B32C3&style=flat-square&logo=eslint&logoColor=white&labelColor=4B32C3" alt="ESLint" />
+  <img src="https://img.shields.io/static/v1?label=PostCSS&message=10%20repos&color=DD3A0A&style=flat-square&logo=postcss&logoColor=white&labelColor=DD3A0A" alt="PostCSS" />
+  <img src="https://img.shields.io/static/v1?label=Playwright&message=8%20repos&color=2EAD33&style=flat-square&logo=playwright&logoColor=white&labelColor=2EAD33" alt="Playwright" />
+  <img src="https://img.shields.io/static/v1?label=Vitest&message=5%20repos&color=6E9F18&style=flat-square&logo=vitest&logoColor=white&labelColor=6E9F18" alt="Vitest" />
+  <img src="https://img.shields.io/static/v1?label=Testing%20Library&message=3%20repos&color=E33332&style=flat-square&logo=testinglibrary&logoColor=white&labelColor=E33332" alt="Testing Library" />
 </td></tr>
 </table>
 <p align="center"><sub>Auto-detected from <b>19</b> dependency manifests across <b>17</b> original repositories · badge = number of repos using it · last sync Nov 27, 2026</sub></p>
@@ -141,31 +141,40 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<img src="https://img.shields.io/badge/★%20LATEST%20PUSH-Oct%2029%2C%202026-238636?style=flat-square&labelColor=0D1117" alt="Latest push" /><br/><h3>🏛️ <a href="https://github.com/ZETIC7Z/Barangay-Online-E-Governance-Portal">Barangay-Online-E-Governance-Portal</a></h3>
-<p>Barangay Online E-Governance Portal - Official Smart 3D E-Governance System for Barangay Matatag, Lamitan City, Basilan (BARMM 7302). Built by Sam Pangilinan (ZETICUZ).</p>
-<p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" /> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" /></p>
-<sub>Updated Oct 29, 2026</sub>
+<img src="https://img.shields.io/badge/★%20LATEST%20PUSH-Nov%2027%2C%202026-238636?style=flat-square&labelColor=0D1117" alt="Latest push" /><br/><h3>🌿 <a href="https://github.com/ZETIC7Z/el-farm-cafe-and-restaurant">el-farm-cafe-and-restaurant</a></h3>
+<p>EL Farm Café &amp; Resto — High-performance farm dining &amp; retreat sanctuary web experience with embedded Supabase Cloud POS, real-time KDS, Three.js 3D carousel, and offline PWA.</p>
+<p><img src="https://img.shields.io/static/v1?label=React&message=&color=20232A&style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/static/v1?label=TypeScript&message=&color=3178C6&style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/static/v1?label=Vite&message=&color=646CFF&style=flat-square&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/static/v1?label=Tailwind%20CSS&message=&color=06B6D4&style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/static/v1?label=React%20Router&message=&color=CA4245&style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" /> <img src="https://img.shields.io/static/v1?label=Three.js&message=&color=000000&style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" /></p>
+<sub>Updated Nov 27, 2026</sub>
 </td>
 <td width="50%" valign="top">
-<h3>🎫 <a href="https://github.com/ZETIC7Z/CLIENT-QMS">CLIENT-QMS</a></h3>
-<p>DSWD AICS Smart Queue Management System with Realtime Multi-Step Workflow, DeepEval-style Analytics, Brownout-Proof Persistence, and Broadcast TV Monitors by ZETICUZ</p>
-<p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" /></p>
-<sub>Updated Oct 21, 2026</sub>
+<h3>🏛️ <a href="https://github.com/ZETIC7Z/Barangay-Online-E-Governance-Portal">Barangay-Online-E-Governance-Portal</a></h3>
+<p>Barangay Online E-Governance Portal - Official Smart 3D E-Governance System for Barangay Matatag, Lamitan City, Basilan (BARMM 7302). Built by Sam Pangilinan (ZETICUZ).</p>
+<p><img src="https://img.shields.io/static/v1?label=React&message=&color=20232A&style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/static/v1?label=TypeScript&message=&color=3178C6&style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/static/v1?label=Vite&message=&color=646CFF&style=flat-square&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/static/v1?label=Tailwind%20CSS&message=&color=06B6D4&style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/static/v1?label=React%20Router&message=&color=CA4245&style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" /> <img src="https://img.shields.io/static/v1?label=Three.js&message=&color=000000&style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" /></p>
+<sub>Updated Oct 29, 2026</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<h3>🎫 <a href="https://github.com/ZETIC7Z/CLIENT-QMS">CLIENT-QMS</a></h3>
+<p>DSWD AICS Smart Queue Management System with Realtime Multi-Step Workflow, DeepEval-style Analytics, Brownout-Proof Persistence, and Broadcast TV Monitors by ZETICUZ</p>
+<p><img src="https://img.shields.io/static/v1?label=React&message=&color=20232A&style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/static/v1?label=TypeScript&message=&color=3178C6&style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/static/v1?label=Vite&message=&color=646CFF&style=flat-square&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/static/v1?label=Tailwind%20CSS&message=&color=06B6D4&style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/static/v1?label=PostgreSQL&message=&color=4169E1&style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/static/v1?label=Supabase&message=&color=3FCF8E&style=flat-square&logo=supabase&logoColor=white" alt="Supabase" /></p>
+<sub>Updated Oct 21, 2026</sub>
+</td>
+<td width="50%" valign="top">
 <h3>📋 <a href="https://github.com/ZETIC7Z/CareerForm">CareerForm</a></h3>
 <p>CareerForm PH - Free CSC Personal Data Sheet (CS Form 212, Revised 2026) Builder &amp; Government Jobs Portal</p>
-<p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" /> <img src="https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=000000" alt="GSAP" /></p>
+<p><img src="https://img.shields.io/static/v1?label=React&message=&color=20232A&style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/static/v1?label=Next.js&message=&color=000000&style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/static/v1?label=TypeScript&message=&color=3178C6&style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/static/v1?label=Tailwind%20CSS&message=&color=06B6D4&style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/static/v1?label=Three.js&message=&color=000000&style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" /> <img src="https://img.shields.io/static/v1?label=GSAP&message=&color=0AE448&style=flat-square&logo=greensock&logoColor=000000" alt="GSAP" /></p>
 <sub>Updated Sep 26, 2026</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3>🎬 <a href="https://github.com/ZETIC7Z/NEXUS">NEXUS</a></h3>
 <p>NEXUS — a Netflix-grade streaming platform with multi-source HLS playback, intelligent subtitles, watch history and a cinematic React UI.</p>
-<p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" /> <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" alt="Zustand" /></p>
+<p><img src="https://img.shields.io/static/v1?label=React&message=&color=20232A&style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/static/v1?label=TypeScript&message=&color=3178C6&style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/static/v1?label=Vite&message=&color=646CFF&style=flat-square&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/static/v1?label=Tailwind%20CSS&message=&color=06B6D4&style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/static/v1?label=React%20Router&message=&color=CA4245&style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" /> <img src="https://img.shields.io/static/v1?label=Zustand&message=&color=443E38&style=flat-square&logo=react&logoColor=white" alt="Zustand" /></p>
 <sub>Updated Sep 5, 2026 · <a href="https://nexus-stream-xi.vercel.app">Live ↗</a></sub>
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 <!-- FLAGSHIP:END -->
